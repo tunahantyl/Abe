@@ -1,0 +1,7919 @@
+{
+  "years": [
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022
+  ],
+  "universities": [
+    {
+      "slug": "abdullah-gül-üni̇versi̇tesi̇",
+      "name": "ABDULLAH GÜL ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2016": {
+          "ortalama": 0.7840124882773041,
+          "medyan": 0.76438172148198
+        },
+        "2017": {
+          "ortalama": 0.8873665836178468,
+          "medyan": 0.9816277553652633
+        },
+        "2018": {
+          "ortalama": 0.8324016427704761,
+          "medyan": 0.8238738839598388
+        },
+        "2019": {
+          "ortalama": 0.8749050295283232,
+          "medyan": 0.9775956312229265
+        },
+        "2020": {
+          "ortalama": 0.8726475195595285,
+          "medyan": 0.8315975713400482
+        },
+        "2021": {
+          "ortalama": 0.8897577331663616,
+          "medyan": 0.8836789162905796
+        },
+        "2022": {
+          "ortalama": 0.8928777672929125,
+          "medyan": 0.866533589630312
+        }
+      }
+    },
+    {
+      "slug": "acibadem-mehmet-ali̇-aydinlar-üni̇versi̇tesi̇",
+      "name": "ACIBADEM MEHMET ALİ AYDINLAR ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2016": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2017": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2018": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2019": {
+          "ortalama": 0.7966134141198585,
+          "medyan": 0.9257521889904765
+        },
+        "2020": {
+          "ortalama": 0.8412499604742834,
+          "medyan": 0.8154987626144996
+        },
+        "2021": {
+          "ortalama": 0.842553529670353,
+          "medyan": 0.8442008480283857
+        },
+        "2022": {
+          "ortalama": 0.8747278111781067,
+          "medyan": 0.8718451968450738
+        }
+      }
+    },
+    {
+      "slug": "adana-alparslan-türkeş-bi̇li̇m-ve-teknoloji̇-üni̇versi̇tesi̇",
+      "name": "ADANA ALPARSLAN TÜRKEŞ BİLİM VE TEKNOLOJİ ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2016": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2017": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2018": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2019": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2020": {
+          "ortalama": 0.748157554906943,
+          "medyan": 0.7834630476099915
+        },
+        "2021": {
+          "ortalama": 0.668197146330687,
+          "medyan": 0.8384721924281319
+        },
+        "2022": {
+          "ortalama": 0.7699774114598543,
+          "medyan": 0.8036757093006189
+        }
+      }
+    },
+    {
+      "slug": "adiyaman-üni̇versi̇tesi̇",
+      "name": "ADIYAMAN ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": 0.7244468329117592,
+          "medyan": 0.9851033362983154
+        },
+        "2016": {
+          "ortalama": 0.7540987225620001,
+          "medyan": 0.9841636740238077
+        },
+        "2017": {
+          "ortalama": 0.8837288380604756,
+          "medyan": 0.976663179257392
+        },
+        "2018": {
+          "ortalama": 0.767927398745969,
+          "medyan": 0.7189984741864752
+        },
+        "2019": {
+          "ortalama": 0.8442478483706247,
+          "medyan": 0.9777013088271546
+        },
+        "2020": {
+          "ortalama": 0.8039918059709598,
+          "medyan": 0.9009855109312999
+        },
+        "2021": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2022": {
+          "ortalama": null,
+          "medyan": null
+        }
+      }
+    },
+    {
+      "slug": "afyon-kocatepe-üni̇versi̇tesi̇",
+      "name": "AFYON KOCATEPE ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": 0.6902557509480305,
+          "medyan": 0.7281436414219656
+        },
+        "2016": {
+          "ortalama": 0.7555699735725526,
+          "medyan": 0.9839893759969774
+        },
+        "2017": {
+          "ortalama": 0.8146759718129148,
+          "medyan": 0.9838165341159494
+        },
+        "2018": {
+          "ortalama": 0.7691633593460965,
+          "medyan": 0.8125997257973011
+        },
+        "2019": {
+          "ortalama": 0.7688065955234863,
+          "medyan": 0.9779529498408602
+        },
+        "2020": {
+          "ortalama": 0.7629104271435172,
+          "medyan": 0.6973049855275973
+        },
+        "2021": {
+          "ortalama": 0.7439906751344645,
+          "medyan": 0.8828190395094943
+        },
+        "2022": {
+          "ortalama": 0.7895366314027448,
+          "medyan": 0.7467896188748891
+        }
+      }
+    },
+    {
+      "slug": "afyonkarahi̇sar-sağlik-bi̇li̇mleri̇-üni̇versi̇tesi̇",
+      "name": "AFYONKARAHİSAR SAĞLIK BİLİMLERİ ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2016": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2017": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2018": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2019": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2020": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2021": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2022": {
+          "ortalama": null,
+          "medyan": null
+        }
+      }
+    },
+    {
+      "slug": "ağri-i̇brahi̇m-çeçen-üni̇versi̇tesi̇",
+      "name": "AĞRI İBRAHİM ÇEÇEN ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": 0.7451221917781193,
+          "medyan": 0.6139364501014577
+        },
+        "2016": {
+          "ortalama": 0.7304782054340856,
+          "medyan": 0.7672337698456336
+        },
+        "2017": {
+          "ortalama": 0.859836739736515,
+          "medyan": 0.9805815502139851
+        },
+        "2018": {
+          "ortalama": 0.615851574771983,
+          "medyan": 0.6011508612210026
+        },
+        "2019": {
+          "ortalama": 0.7148747340188045,
+          "medyan": 0.9064246288571203
+        },
+        "2020": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2021": {
+          "ortalama": 0.7758128795897976,
+          "medyan": 0.8425666046287036
+        },
+        "2022": {
+          "ortalama": null,
+          "medyan": null
+        }
+      }
+    },
+    {
+      "slug": "akdeni̇z-üni̇versi̇tesi̇",
+      "name": "AKDENİZ ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2016": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2017": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2018": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2019": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2020": {
+          "ortalama": 0.7892324877498454,
+          "medyan": 0.8762523626892162
+        },
+        "2021": {
+          "ortalama": 0.800414250032227,
+          "medyan": 0.7646753223912425
+        },
+        "2022": {
+          "ortalama": 0.8341198007496196,
+          "medyan": 0.7978639233892291
+        }
+      }
+    },
+    {
+      "slug": "aksaray-üni̇versi̇tesi̇",
+      "name": "AKSARAY ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": 0.8855826317815791,
+          "medyan": 0.9891231120336113
+        },
+        "2016": {
+          "ortalama": 0.7980405918155128,
+          "medyan": 0.9889948496950072
+        },
+        "2017": {
+          "ortalama": 0.8674019152794021,
+          "medyan": 0.981607112324068
+        },
+        "2018": {
+          "ortalama": 0.7802707754372868,
+          "medyan": 0.7764191142899513
+        },
+        "2019": {
+          "ortalama": 0.7941377226188248,
+          "medyan": 0.9342820991097143
+        },
+        "2020": {
+          "ortalama": 0.7818226857906986,
+          "medyan": 0.8759156550826044
+        },
+        "2021": {
+          "ortalama": 0.7928656305176265,
+          "medyan": 0.9039399533932606
+        },
+        "2022": {
+          "ortalama": 0.7667988516941018,
+          "medyan": 0.8701640060749527
+        }
+      }
+    },
+    {
+      "slug": "alanya-alaaddi̇n-keykubat-üni̇versi̇tesi̇",
+      "name": "ALANYA ALAADDİN KEYKUBAT ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2016": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2017": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2018": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2019": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2020": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2021": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2022": {
+          "ortalama": 0.7614032846111991,
+          "medyan": 0.7294098710616972
+        }
+      }
+    },
+    {
+      "slug": "alanya-üni̇versi̇tesi̇",
+      "name": "ALANYA ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2016": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2017": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2018": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2019": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2020": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2021": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2022": {
+          "ortalama": 0.4128246212490785,
+          "medyan": 0.9694786727285977
+        }
+      }
+    },
+    {
+      "slug": "altinbaş-üni̇versi̇tesi̇",
+      "name": "ALTINBAŞ ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2016": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2017": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2018": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2019": {
+          "ortalama": 0.739860220780652,
+          "medyan": 0.9027865310663911
+        },
+        "2020": {
+          "ortalama": 0.7182050492028677,
+          "medyan": 0.7090887104461628
+        },
+        "2021": {
+          "ortalama": 0.773042080007941,
+          "medyan": 0.751188777743034
+        },
+        "2022": {
+          "ortalama": 0.7569799315712447,
+          "medyan": 0.7313988916820535
+        }
+      }
+    },
+    {
+      "slug": "amasya-üni̇versi̇tesi̇",
+      "name": "AMASYA ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2016": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2017": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2018": {
+          "ortalama": 0.7715981359986335,
+          "medyan": 0.772306271334044
+        },
+        "2019": {
+          "ortalama": 0.6357997745189892,
+          "medyan": 0.7686049270748181
+        },
+        "2020": {
+          "ortalama": 0.7916141688686789,
+          "medyan": 0.882167217596262
+        },
+        "2021": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2022": {
+          "ortalama": 0.7617672469164636,
+          "medyan": 0.7481843313778237
+        }
+      }
+    },
+    {
+      "slug": "anadolu-üni̇versi̇tesi̇",
+      "name": "ANADOLU ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2016": {
+          "ortalama": 0.8814707239520668,
+          "medyan": 0.9373520006082375
+        },
+        "2017": {
+          "ortalama": 0.8967521770793215,
+          "medyan": 0.9817552492708428
+        },
+        "2018": {
+          "ortalama": 0.7876108907736619,
+          "medyan": 0.7832510818348211
+        },
+        "2019": {
+          "ortalama": 0.8171341608383624,
+          "medyan": 0.9804302817233339
+        },
+        "2020": {
+          "ortalama": 0.7629284803814168,
+          "medyan": 0.8692244561391462
+        },
+        "2021": {
+          "ortalama": 0.7896531066457478,
+          "medyan": 0.9142932081675919
+        },
+        "2022": {
+          "ortalama": 0.7342282460628147,
+          "medyan": 0.9225877479806888
+        }
+      }
+    },
+    {
+      "slug": "anka-teknoloji̇-üni̇versi̇tesi̇",
+      "name": "ANKA TEKNOLOJİ ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2016": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2017": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2018": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2019": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2020": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2021": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2022": {
+          "ortalama": null,
+          "medyan": null
+        }
+      }
+    },
+    {
+      "slug": "ankara-bi̇li̇m-üni̇versi̇tesi̇",
+      "name": "ANKARA BİLİM ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2016": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2017": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2018": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2019": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2020": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2021": {
+          "ortalama": 0.71034682714678,
+          "medyan": 0.7969009679664605
+        },
+        "2022": {
+          "ortalama": null,
+          "medyan": null
+        }
+      }
+    },
+    {
+      "slug": "ankara-haci-bayram-veli̇-üni̇versi̇tesi̇",
+      "name": "ANKARA HACI BAYRAM VELİ ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2016": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2017": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2018": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2019": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2020": {
+          "ortalama": 0.5632486828746944,
+          "medyan": 0.6536959640449687
+        },
+        "2021": {
+          "ortalama": 0.6460500266673419,
+          "medyan": 0.7084134117880723
+        },
+        "2022": {
+          "ortalama": 0.6675518819118516,
+          "medyan": 0.7353175518430667
+        }
+      }
+    },
+    {
+      "slug": "ankara-medi̇pol-üni̇versi̇tesi̇",
+      "name": "ANKARA MEDİPOL ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2016": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2017": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2018": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2019": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2020": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2021": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2022": {
+          "ortalama": null,
+          "medyan": null
+        }
+      }
+    },
+    {
+      "slug": "ankara-müzi̇k-ve-güzel-sanatlar-üni̇versi̇tesi̇",
+      "name": "ANKARA MÜZİK VE GÜZEL SANATLAR ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2016": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2017": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2018": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2019": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2020": {
+          "ortalama": 0.6497293464859621,
+          "medyan": null
+        },
+        "2021": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2022": {
+          "ortalama": null,
+          "medyan": null
+        }
+      }
+    },
+    {
+      "slug": "ankara-sosyal-bi̇li̇mler-üni̇versi̇tesi̇",
+      "name": "ANKARA SOSYAL BİLİMLER ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2016": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2017": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2018": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2019": {
+          "ortalama": 0.5829488733520761,
+          "medyan": 0.7941692341258515
+        },
+        "2020": {
+          "ortalama": 0.6024491314675164,
+          "medyan": 0.676580159232301
+        },
+        "2021": {
+          "ortalama": 0.5394594757152081,
+          "medyan": null
+        },
+        "2022": {
+          "ortalama": null,
+          "medyan": null
+        }
+      }
+    },
+    {
+      "slug": "ankara-üni̇versi̇tesi̇",
+      "name": "ANKARA ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": 0.6949701119305471,
+          "medyan": 0.6483723560902521
+        },
+        "2016": {
+          "ortalama": 0.8020961705155576,
+          "medyan": 0.7412365459208652
+        },
+        "2017": {
+          "ortalama": 0.8758010032711835,
+          "medyan": 0.9815089016914332
+        },
+        "2018": {
+          "ortalama": 0.8530163696547806,
+          "medyan": 0.8372359581150893
+        },
+        "2019": {
+          "ortalama": 0.8529683683256715,
+          "medyan": 0.9781417039614697
+        },
+        "2020": {
+          "ortalama": 0.8209763388111001,
+          "medyan": 0.7953083829979644
+        },
+        "2021": {
+          "ortalama": 0.8454921767834379,
+          "medyan": 0.8118724426115026
+        },
+        "2022": {
+          "ortalama": 0.8405819382723583,
+          "medyan": 0.7874112159484077
+        }
+      }
+    },
+    {
+      "slug": "ankara-yildirim-beyazit-üni̇versi̇tesi̇",
+      "name": "ANKARA YILDIRIM BEYAZIT ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2016": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2017": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2018": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2019": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2020": {
+          "ortalama": 0.7664845291286013,
+          "medyan": 0.6761057515774287
+        },
+        "2021": {
+          "ortalama": 0.7808039159721387,
+          "medyan": 0.7513283459624621
+        },
+        "2022": {
+          "ortalama": 0.7264090690324897,
+          "medyan": 0.8350585517611433
+        }
+      }
+    },
+    {
+      "slug": "antalya-belek-üni̇versi̇tesi̇",
+      "name": "ANTALYA BELEK ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2016": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2017": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2018": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2019": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2020": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2021": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2022": {
+          "ortalama": null,
+          "medyan": null
+        }
+      }
+    },
+    {
+      "slug": "antalya-bi̇li̇m-üni̇versi̇tesi̇",
+      "name": "ANTALYA BİLİM ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2016": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2017": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2018": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2019": {
+          "ortalama": 0.718092635036988,
+          "medyan": 0.7774980267381696
+        },
+        "2020": {
+          "ortalama": 0.7339428492598109,
+          "medyan": 0.6789740251868395
+        },
+        "2021": {
+          "ortalama": 0.7036733310505252,
+          "medyan": null
+        },
+        "2022": {
+          "ortalama": 0.6421759514773542,
+          "medyan": null
+        }
+      }
+    },
+    {
+      "slug": "ardahan-üni̇versi̇tesi̇",
+      "name": "ARDAHAN ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2016": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2017": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2018": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2019": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2020": {
+          "ortalama": 0.8080765460146975,
+          "medyan": 0.8582297371040933
+        },
+        "2021": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2022": {
+          "ortalama": null,
+          "medyan": null
+        }
+      }
+    },
+    {
+      "slug": "artvi̇n-çoruh-üni̇versi̇tesi̇",
+      "name": "ARTVİN ÇORUH ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2016": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2017": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2018": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2019": {
+          "ortalama": 0.6461553205820947,
+          "medyan": 0.8277991220001053
+        },
+        "2020": {
+          "ortalama": 0.7002949785729005,
+          "medyan": 0.7252441337472254
+        },
+        "2021": {
+          "ortalama": 0.7233945632534283,
+          "medyan": 0.7944464019731041
+        },
+        "2022": {
+          "ortalama": 0.7906976777123921,
+          "medyan": 0.8453700321875712
+        }
+      }
+    },
+    {
+      "slug": "ataşehi̇r-adigüzel-meslek-yüksekokulu",
+      "name": "ATAŞEHİR ADIGÜZEL MESLEK YÜKSEKOKULU",
+      "scores": {
+        "2015": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2016": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2017": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2018": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2019": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2020": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2021": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2022": {
+          "ortalama": null,
+          "medyan": null
+        }
+      }
+    },
+    {
+      "slug": "atatürk-üni̇versi̇tesi̇",
+      "name": "ATATÜRK ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2016": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2017": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2018": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2019": {
+          "ortalama": 0.8083396254768664,
+          "medyan": 0.9777448429337814
+        },
+        "2020": {
+          "ortalama": 0.8363487815685555,
+          "medyan": 0.9174545779214194
+        },
+        "2021": {
+          "ortalama": 0.8462521427416256,
+          "medyan": 0.9116315448586199
+        },
+        "2022": {
+          "ortalama": 0.8416683184430275,
+          "medyan": 0.8253900560065045
+        }
+      }
+    },
+    {
+      "slug": "atilim-üni̇versi̇tesi̇",
+      "name": "ATILIM ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2016": {
+          "ortalama": 0.863326258105439,
+          "medyan": 0.8859131478795568
+        },
+        "2017": {
+          "ortalama": 0.8994844323499989,
+          "medyan": 0.9815107007194424
+        },
+        "2018": {
+          "ortalama": 0.7787853792738426,
+          "medyan": 0.7838620855551797
+        },
+        "2019": {
+          "ortalama": 0.8294219397131545,
+          "medyan": 0.9124002179876531
+        },
+        "2020": {
+          "ortalama": 0.8558707377874761,
+          "medyan": 0.9879787054429559
+        },
+        "2021": {
+          "ortalama": 0.8430802882051229,
+          "medyan": 0.9162426827130353
+        },
+        "2022": {
+          "ortalama": 0.7403245457259114,
+          "medyan": 0.7324942944301825
+        }
+      }
+    },
+    {
+      "slug": "avrasya-üni̇versi̇tesi̇",
+      "name": "AVRASYA ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2016": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2017": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2018": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2019": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2020": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2021": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2022": {
+          "ortalama": null,
+          "medyan": null
+        }
+      }
+    },
+    {
+      "slug": "aydin-adnan-menderes-üni̇versi̇tesi̇",
+      "name": "AYDIN ADNAN MENDERES ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": 0.783224326360463,
+          "medyan": 0.827599621156864
+        },
+        "2016": {
+          "ortalama": 0.7591278592055262,
+          "medyan": 0.9840973781593627
+        },
+        "2017": {
+          "ortalama": 0.7999276928914288,
+          "medyan": 0.9813734045757664
+        },
+        "2018": {
+          "ortalama": 0.6796713273551116,
+          "medyan": 0.822311242859398
+        },
+        "2019": {
+          "ortalama": 0.7452428921004338,
+          "medyan": 0.873304319681738
+        },
+        "2020": {
+          "ortalama": 0.7895468797265904,
+          "medyan": 0.8524168564580598
+        },
+        "2021": {
+          "ortalama": 0.7647147287848519,
+          "medyan": 0.7887411217665578
+        },
+        "2022": {
+          "ortalama": 0.7381576045123336,
+          "medyan": 0.7516583207091393
+        }
+      }
+    },
+    {
+      "slug": "bahçeşehi̇r-üni̇versi̇tesi̇",
+      "name": "BAHÇEŞEHİR ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2016": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2017": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2018": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2019": {
+          "ortalama": 0.8221635173180744,
+          "medyan": 0.8900352963003663
+        },
+        "2020": {
+          "ortalama": 0.8587906631675868,
+          "medyan": 0.822911206349443
+        },
+        "2021": {
+          "ortalama": 0.8656770975251807,
+          "medyan": 0.8316122260488364
+        },
+        "2022": {
+          "ortalama": 0.8385592046728665,
+          "medyan": 0.7903577527025453
+        }
+      }
+    },
+    {
+      "slug": "balikesi̇r-üni̇versi̇tesi̇",
+      "name": "BALIKESİR ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": 0.8047316740776246,
+          "medyan": 0.9141937381865863
+        },
+        "2016": {
+          "ortalama": 0.7854140162003642,
+          "medyan": 0.8174765909881005
+        },
+        "2017": {
+          "ortalama": 0.8332197632994619,
+          "medyan": 0.9812761112230454
+        },
+        "2018": {
+          "ortalama": 0.6966401756989279,
+          "medyan": 0.8414590491700125
+        },
+        "2019": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2020": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2021": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2022": {
+          "ortalama": null,
+          "medyan": null
+        }
+      }
+    },
+    {
+      "slug": "bandirma-onyedi̇-eylül-üni̇versi̇tesi̇",
+      "name": "BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2016": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2017": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2018": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2019": {
+          "ortalama": 0.6965028594373407,
+          "medyan": 0.5884630190449063
+        },
+        "2020": {
+          "ortalama": 0.5325174795237052,
+          "medyan": 0.3744748709682273
+        },
+        "2021": {
+          "ortalama": 0.7095137435883143,
+          "medyan": 0.7392925444378872
+        },
+        "2022": {
+          "ortalama": null,
+          "medyan": null
+        }
+      }
+    },
+    {
+      "slug": "bartin-üni̇versi̇tesi̇",
+      "name": "BARTIN ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2016": {
+          "ortalama": 0.7244524420774695,
+          "medyan": 0.7587230773715191
+        },
+        "2017": {
+          "ortalama": 0.874153166033535,
+          "medyan": 0.9814773170860587
+        },
+        "2018": {
+          "ortalama": 0.7779629933848625,
+          "medyan": 0.7217003879933328
+        },
+        "2019": {
+          "ortalama": 0.8442821630236731,
+          "medyan": 0.9778217695131933
+        },
+        "2020": {
+          "ortalama": 0.8343419466791566,
+          "medyan": 0.9124743222419869
+        },
+        "2021": {
+          "ortalama": 0.8189688865974937,
+          "medyan": 0.923639474761243
+        },
+        "2022": {
+          "ortalama": 0.8642829510129038,
+          "medyan": 0.8690469055522491
+        }
+      }
+    },
+    {
+      "slug": "başkent-üni̇versi̇tesi̇",
+      "name": "BAŞKENT ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": 0.6695596082556194,
+          "medyan": 0.8226932336507168
+        },
+        "2016": {
+          "ortalama": 0.8086941456361718,
+          "medyan": 0.9841081259008402
+        },
+        "2017": {
+          "ortalama": 0.8389785764948756,
+          "medyan": 0.9812639043271828
+        },
+        "2018": {
+          "ortalama": 0.6706648050673467,
+          "medyan": 0.5310434784580527
+        },
+        "2019": {
+          "ortalama": 0.7391909990192284,
+          "medyan": 0.978089297490422
+        },
+        "2020": {
+          "ortalama": 0.7595816737386133,
+          "medyan": 0.7219161784911385
+        },
+        "2021": {
+          "ortalama": 0.7551647278200498,
+          "medyan": 0.8698211474070918
+        },
+        "2022": {
+          "ortalama": 0.7444233634844807,
+          "medyan": 0.6715782211068362
+        }
+      }
+    },
+    {
+      "slug": "batman-üni̇versi̇tesi̇",
+      "name": "BATMAN ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2016": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2017": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2018": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2019": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2020": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2021": {
+          "ortalama": 0.7405157772961417,
+          "medyan": 0.7682395701508358
+        },
+        "2022": {
+          "ortalama": 0.7806193447296988,
+          "medyan": 0.9284711821375193
+        }
+      }
+    },
+    {
+      "slug": "bayburt-üni̇versi̇tesi̇",
+      "name": "BAYBURT ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2016": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2017": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2018": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2019": {
+          "ortalama": 0.796830241095515,
+          "medyan": 0.9005448946856891
+        },
+        "2020": {
+          "ortalama": 0.8099898127753582,
+          "medyan": 0.8852451680367225
+        },
+        "2021": {
+          "ortalama": 0.7952072447382467,
+          "medyan": 0.8884501345197977
+        },
+        "2022": {
+          "ortalama": 0.7956548130507194,
+          "medyan": 0.7831146675329411
+        }
+      }
+    },
+    {
+      "slug": "beykoz-üni̇versi̇tesi̇",
+      "name": "BEYKOZ ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2016": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2017": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2018": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2019": {
+          "ortalama": 0.6141329382172589,
+          "medyan": 0.37405651915794824
+        },
+        "2020": {
+          "ortalama": 0.5420506064308294,
+          "medyan": 0.3923044629511208
+        },
+        "2021": {
+          "ortalama": 0.5102950437606408,
+          "medyan": 0.6865135337266483
+        },
+        "2022": {
+          "ortalama": 0.5206552613261166,
+          "medyan": 0.8607865972400603
+        }
+      }
+    },
+    {
+      "slug": "bezm-i̇-âlem-vakif-üni̇versi̇tesi̇",
+      "name": "BEZM-İ ÂLEM VAKIF ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": 0.6834095404094463,
+          "medyan": 0.6630342259762585
+        },
+        "2016": {
+          "ortalama": 0.8103086284625413,
+          "medyan": 0.9347670394393051
+        },
+        "2017": {
+          "ortalama": 0.9039304191550319,
+          "medyan": 0.9810097215229558
+        },
+        "2018": {
+          "ortalama": 0.7475824941701116,
+          "medyan": 0.7520482912378026
+        },
+        "2019": {
+          "ortalama": 0.8420157509036834,
+          "medyan": 0.9802153577798056
+        },
+        "2020": {
+          "ortalama": 0.8331016093798933,
+          "medyan": 0.9045612497559619
+        },
+        "2021": {
+          "ortalama": 0.8624840223722475,
+          "medyan": 0.9113156069854451
+        },
+        "2022": {
+          "ortalama": 0.852076548351112,
+          "medyan": 0.9033386972636852
+        }
+      }
+    },
+    {
+      "slug": "bi̇leci̇k-şeyh-edebali̇-üni̇versi̇tesi̇",
+      "name": "BİLECİK ŞEYH EDEBALİ ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2016": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2017": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2018": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2019": {
+          "ortalama": 0.7588394437059959,
+          "medyan": 0.8217656720956127
+        },
+        "2020": {
+          "ortalama": 0.7107252712149372,
+          "medyan": 0.6694439785149839
+        },
+        "2021": {
+          "ortalama": 0.721150582102599,
+          "medyan": 0.7635812730464699
+        },
+        "2022": {
+          "ortalama": 0.8089888825795344,
+          "medyan": 0.8288346351628222
+        }
+      }
+    },
+    {
+      "slug": "bi̇ngöl-üni̇versi̇tesi̇",
+      "name": "BİNGÖL ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2016": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2017": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2018": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2019": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2020": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2021": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2022": {
+          "ortalama": null,
+          "medyan": null
+        }
+      }
+    },
+    {
+      "slug": "bi̇runi̇-üni̇versi̇tesi̇",
+      "name": "BİRUNİ ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2016": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2017": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2018": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2019": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2020": {
+          "ortalama": 0.6633543438975995,
+          "medyan": 0.7465838314132113
+        },
+        "2021": {
+          "ortalama": 0.8449279231648258,
+          "medyan": 0.9062670910789616
+        },
+        "2022": {
+          "ortalama": 0.8480881220057384,
+          "medyan": 0.9348032121511194
+        }
+      }
+    },
+    {
+      "slug": "bi̇tli̇s-eren-üni̇versi̇tesi̇",
+      "name": "BİTLİS EREN ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": 0.749928579200228,
+          "medyan": 0.8520233965264237
+        },
+        "2016": {
+          "ortalama": 0.7493517762552593,
+          "medyan": 0.984357127193825
+        },
+        "2017": {
+          "ortalama": 0.8383119617866687,
+          "medyan": 0.9811569685464713
+        },
+        "2018": {
+          "ortalama": 0.716377098774222,
+          "medyan": 0.7388240026824312
+        },
+        "2019": {
+          "ortalama": 0.6608872992356691,
+          "medyan": 0.8340275977019356
+        },
+        "2020": {
+          "ortalama": 0.7015733397970144,
+          "medyan": 0.6226844190061982
+        },
+        "2021": {
+          "ortalama": 0.6904551779427899,
+          "medyan": 0.7209222748241758
+        },
+        "2022": {
+          "ortalama": 0.7359833220291262,
+          "medyan": 0.8735172943512088
+        }
+      }
+    },
+    {
+      "slug": "boğazi̇çi̇-üni̇versi̇tesi̇",
+      "name": "BOĞAZİÇİ ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2016": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2017": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2018": {
+          "ortalama": 0.8392288628866027,
+          "medyan": 0.851410709504786
+        },
+        "2019": {
+          "ortalama": 0.8916044301499494,
+          "medyan": 0.9782382468907771
+        },
+        "2020": {
+          "ortalama": 0.8817513587308701,
+          "medyan": 0.858963653354585
+        },
+        "2021": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2022": {
+          "ortalama": null,
+          "medyan": null
+        }
+      }
+    },
+    {
+      "slug": "bolu-abant-i̇zzet-baysal-üni̇versi̇tesi̇",
+      "name": "BOLU ABANT İZZET BAYSAL ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": 0.7206323641790577,
+          "medyan": 0.8015296367357605
+        },
+        "2016": {
+          "ortalama": 0.7704678931920381,
+          "medyan": 0.8730210781458962
+        },
+        "2017": {
+          "ortalama": 0.8289372743947604,
+          "medyan": 0.9831309055632528
+        },
+        "2018": {
+          "ortalama": 0.6659203335147067,
+          "medyan": 0.5878483375346816
+        },
+        "2019": {
+          "ortalama": 0.8194375278286542,
+          "medyan": 0.9778123362552142
+        },
+        "2020": {
+          "ortalama": 0.7831870291271656,
+          "medyan": 0.8629265866538675
+        },
+        "2021": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2022": {
+          "ortalama": null,
+          "medyan": null
+        }
+      }
+    },
+    {
+      "slug": "burdur-mehmet-aki̇f-ersoy-üni̇versi̇tesi̇",
+      "name": "BURDUR MEHMET AKİF ERSOY ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": 0.704520761348142,
+          "medyan": 0.9273376980422472
+        },
+        "2016": {
+          "ortalama": 0.7141483544939426,
+          "medyan": 0.9839768297154259
+        },
+        "2017": {
+          "ortalama": 0.7819574617852153,
+          "medyan": 0.9878368331997566
+        },
+        "2018": {
+          "ortalama": 0.7251278759674451,
+          "medyan": 0.6090673854435399
+        },
+        "2019": {
+          "ortalama": 0.6720251615925111,
+          "medyan": 0.4489484119703418
+        },
+        "2020": {
+          "ortalama": 0.7648249973401937,
+          "medyan": 0.8973373546686729
+        },
+        "2021": {
+          "ortalama": 0.7711428805960759,
+          "medyan": 0.816562532593808
+        },
+        "2022": {
+          "ortalama": 0.7648509377911782,
+          "medyan": 0.7658766815549789
+        }
+      }
+    },
+    {
+      "slug": "bursa-tekni̇k-üni̇versi̇tesi̇",
+      "name": "BURSA TEKNİK ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2016": {
+          "ortalama": 0.8314854747558462,
+          "medyan": 0.8901454400933924
+        },
+        "2017": {
+          "ortalama": 0.908854601664935,
+          "medyan": 0.9814977267880346
+        },
+        "2018": {
+          "ortalama": 0.8130028450535774,
+          "medyan": 0.773710185758278
+        },
+        "2019": {
+          "ortalama": 0.8430144750000614,
+          "medyan": 0.9777323108013914
+        },
+        "2020": {
+          "ortalama": 0.8164955811305692,
+          "medyan": 0.7434395529020972
+        },
+        "2021": {
+          "ortalama": 0.8439256532607338,
+          "medyan": 0.8359306361349096
+        },
+        "2022": {
+          "ortalama": 0.8361714764050816,
+          "medyan": 0.8095260458459116
+        }
+      }
+    },
+    {
+      "slug": "bursa-uludağ-üni̇versi̇tesi̇",
+      "name": "BURSA ULUDAĞ ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2016": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2017": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2018": {
+          "ortalama": 0.7837380543106653,
+          "medyan": 0.7086584456210001
+        },
+        "2019": {
+          "ortalama": 0.826529620294717,
+          "medyan": 0.9781676411525562
+        },
+        "2020": {
+          "ortalama": 0.7638859049829883,
+          "medyan": 0.7277143171146557
+        },
+        "2021": {
+          "ortalama": 0.7881614608698094,
+          "medyan": 0.7708608989276117
+        },
+        "2022": {
+          "ortalama": 0.779881552596681,
+          "medyan": 0.7282525868919522
+        }
+      }
+    },
+    {
+      "slug": "çağ-üni̇versi̇tesi̇",
+      "name": "ÇAĞ ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2016": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2017": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2018": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2019": {
+          "ortalama": 0.6754857559591114,
+          "medyan": 0.7838197696445084
+        },
+        "2020": {
+          "ortalama": 0.7977131665534294,
+          "medyan": 0.8651367392949193
+        },
+        "2021": {
+          "ortalama": 0.7982290203106442,
+          "medyan": 0.8685349324077472
+        },
+        "2022": {
+          "ortalama": null,
+          "medyan": null
+        }
+      }
+    },
+    {
+      "slug": "çanakkale-onseki̇z-mart-üni̇versi̇tesi̇",
+      "name": "ÇANAKKALE ONSEKİZ MART ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": 0.6912056885881521,
+          "medyan": 0.6075538098115023
+        },
+        "2016": {
+          "ortalama": 0.8486934830479085,
+          "medyan": 0.6651735413374773
+        },
+        "2017": {
+          "ortalama": 0.8670282952177872,
+          "medyan": 0.9813875557689845
+        },
+        "2018": {
+          "ortalama": 0.7198847036295418,
+          "medyan": 0.6332089939485949
+        },
+        "2019": {
+          "ortalama": 0.7629680213052265,
+          "medyan": 0.9779897037786779
+        },
+        "2020": {
+          "ortalama": 0.760193202627482,
+          "medyan": 0.7543742039943027
+        },
+        "2021": {
+          "ortalama": 0.7526062747606118,
+          "medyan": 0.7813632161020576
+        },
+        "2022": {
+          "ortalama": 0.7478248272733544,
+          "medyan": 0.7516248124025438
+        }
+      }
+    },
+    {
+      "slug": "çankaya-üni̇versi̇tesi̇",
+      "name": "ÇANKAYA ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2016": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2017": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2018": {
+          "ortalama": 0.8316602900865077,
+          "medyan": 0.8361883576526895
+        },
+        "2019": {
+          "ortalama": 0.9069595574423166,
+          "medyan": 0.9779593480385591
+        },
+        "2020": {
+          "ortalama": 0.9180828407067103,
+          "medyan": 0.9016668636052512
+        },
+        "2021": {
+          "ortalama": 0.9113863833048297,
+          "medyan": 0.8846528615846548
+        },
+        "2022": {
+          "ortalama": 0.9300638443975433,
+          "medyan": 0.9108476176097285
+        }
+      }
+    },
+    {
+      "slug": "çankiri-karateki̇n-üni̇versi̇tesi̇",
+      "name": "ÇANKIRI KARATEKİN ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2016": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2017": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2018": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2019": {
+          "ortalama": 0.7802748809054827,
+          "medyan": 0.9801109515077309
+        },
+        "2020": {
+          "ortalama": 0.7679028011455313,
+          "medyan": 0.8793701332190688
+        },
+        "2021": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2022": {
+          "ortalama": null,
+          "medyan": null
+        }
+      }
+    },
+    {
+      "slug": "çukurova-üni̇versi̇tesi̇",
+      "name": "ÇUKUROVA ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": 0.8580300364966337,
+          "medyan": 0.836579908763774
+        },
+        "2016": {
+          "ortalama": 0.840125827244264,
+          "medyan": 0.9839567285214537
+        },
+        "2017": {
+          "ortalama": 0.8799177906168499,
+          "medyan": 0.9816751996655325
+        },
+        "2018": {
+          "ortalama": 0.8092714440212427,
+          "medyan": 0.8153646366294566
+        },
+        "2019": {
+          "ortalama": 0.860532820557195,
+          "medyan": 0.9779476619920198
+        },
+        "2020": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2021": {
+          "ortalama": 0.828326877602355,
+          "medyan": 0.8008960047844946
+        },
+        "2022": {
+          "ortalama": 0.833471392092904,
+          "medyan": 0.8119307263579468
+        }
+      }
+    },
+    {
+      "slug": "demi̇roğlu-bi̇li̇m-üni̇versi̇tesi̇",
+      "name": "DEMİROĞLU BİLİM ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2016": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2017": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2018": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2019": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2020": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2021": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2022": {
+          "ortalama": null,
+          "medyan": null
+        }
+      }
+    },
+    {
+      "slug": "di̇cle-üni̇versi̇tesi̇",
+      "name": "DİCLE ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2016": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2017": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2018": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2019": {
+          "ortalama": 0.6768170475281934,
+          "medyan": 0.7457927801760706
+        },
+        "2020": {
+          "ortalama": 0.6971503749686706,
+          "medyan": 0.6786553279237907
+        },
+        "2021": {
+          "ortalama": 0.7348261264520565,
+          "medyan": 0.7060067600425503
+        },
+        "2022": {
+          "ortalama": 0.6758017702591167,
+          "medyan": 0.8153352922824593
+        }
+      }
+    },
+    {
+      "slug": "doğuş-üni̇versi̇tesi̇",
+      "name": "DOĞUŞ ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2016": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2017": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2018": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2019": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2020": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2021": {
+          "ortalama": 0.7340884470102498,
+          "medyan": 0.908642047555186
+        },
+        "2022": {
+          "ortalama": 0.7577713582364488,
+          "medyan": 0.8121466580681062
+        }
+      }
+    },
+    {
+      "slug": "dokuz-eylül-üni̇versi̇tesi̇",
+      "name": "DOKUZ EYLÜL ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2016": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2017": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2018": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2019": {
+          "ortalama": 0.8317183371083159,
+          "medyan": 0.9782950005658939
+        },
+        "2020": {
+          "ortalama": 0.8176701243301788,
+          "medyan": 0.7851637720080547
+        },
+        "2021": {
+          "ortalama": 0.8093353348956611,
+          "medyan": 0.8079085155735295
+        },
+        "2022": {
+          "ortalama": 0.7961414988491591,
+          "medyan": 0.7590322506797293
+        }
+      }
+    },
+    {
+      "slug": "düzce-üni̇versi̇tesi̇",
+      "name": "DÜZCE ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2016": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2017": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2018": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2019": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2020": {
+          "ortalama": 0.7847458709577704,
+          "medyan": 0.8961080744367547
+        },
+        "2021": {
+          "ortalama": 0.8174241886260465,
+          "medyan": 0.8366951076389902
+        },
+        "2022": {
+          "ortalama": 0.8048276429066147,
+          "medyan": 0.9071685675682085
+        }
+      }
+    },
+    {
+      "slug": "ege-üni̇versi̇tesi̇",
+      "name": "EGE ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2016": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2017": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2018": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2019": {
+          "ortalama": 0.822493439049194,
+          "medyan": 0.9781485940635084
+        },
+        "2020": {
+          "ortalama": 0.8063833995519102,
+          "medyan": 0.7736204536227715
+        },
+        "2021": {
+          "ortalama": 0.831105987343155,
+          "medyan": 0.8317151848818062
+        },
+        "2022": {
+          "ortalama": 0.815000487791943,
+          "medyan": 0.7635536984252569
+        }
+      }
+    },
+    {
+      "slug": "erci̇yes-üni̇versi̇tesi̇",
+      "name": "ERCİYES ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2016": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2017": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2018": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2019": {
+          "ortalama": 0.8247049115540664,
+          "medyan": 0.9778942880043753
+        },
+        "2020": {
+          "ortalama": 0.8441675975660572,
+          "medyan": 0.7758290770763243
+        },
+        "2021": {
+          "ortalama": 0.8308901702332525,
+          "medyan": 0.7747954331928417
+        },
+        "2022": {
+          "ortalama": 0.8597268349222286,
+          "medyan": 0.8355475209571649
+        }
+      }
+    },
+    {
+      "slug": "erzi̇ncan-bi̇nali̇-yildirim-üni̇versi̇tesi̇",
+      "name": "ERZİNCAN BİNALİ YILDIRIM ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": 0.911471501276,
+          "medyan": 0.9713697561861956
+        },
+        "2016": {
+          "ortalama": 0.9001041768849766,
+          "medyan": 0.9128586719203207
+        },
+        "2017": {
+          "ortalama": 0.8799230281388016,
+          "medyan": 0.9818302359838554
+        },
+        "2018": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2019": {
+          "ortalama": 0.798841604308637,
+          "medyan": 0.9040156190818351
+        },
+        "2020": {
+          "ortalama": 0.7619584828608789,
+          "medyan": 0.7710445427915504
+        },
+        "2021": {
+          "ortalama": 0.7151946121205283,
+          "medyan": 0.8116499098405316
+        },
+        "2022": {
+          "ortalama": 0.8261996606421687,
+          "medyan": 0.828490648507396
+        }
+      }
+    },
+    {
+      "slug": "erzurum-tekni̇k-üni̇versi̇tesi̇",
+      "name": "ERZURUM TEKNİK ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2016": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2017": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2018": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2019": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2020": {
+          "ortalama": 0.8415175275976196,
+          "medyan": 0.9066281213687557
+        },
+        "2021": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2022": {
+          "ortalama": null,
+          "medyan": null
+        }
+      }
+    },
+    {
+      "slug": "eski̇şehi̇r-osmangazi̇-üni̇versi̇tesi̇",
+      "name": "ESKİŞEHİR OSMANGAZİ ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": 0.7952855829175028,
+          "medyan": 0.8054820697607747
+        },
+        "2016": {
+          "ortalama": 0.8083566699437775,
+          "medyan": 0.7558955134212324
+        },
+        "2017": {
+          "ortalama": 0.889252806972331,
+          "medyan": 0.9814184143767477
+        },
+        "2018": {
+          "ortalama": 0.738247394896738,
+          "medyan": 0.6692727033050779
+        },
+        "2019": {
+          "ortalama": 0.8024163039208735,
+          "medyan": 0.9778103966697442
+        },
+        "2020": {
+          "ortalama": 0.7777482850149718,
+          "medyan": 0.7325786678716526
+        },
+        "2021": {
+          "ortalama": 0.79888658422753,
+          "medyan": 0.7626603210726077
+        },
+        "2022": {
+          "ortalama": 0.8135564032688795,
+          "medyan": 0.7689776736579396
+        }
+      }
+    },
+    {
+      "slug": "eski̇şehi̇r-tekni̇k-üni̇versi̇tesi̇",
+      "name": "ESKİŞEHİR TEKNİK ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2016": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2017": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2018": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2019": {
+          "ortalama": 0.7286437101928145,
+          "medyan": 0.8688378304688351
+        },
+        "2020": {
+          "ortalama": 0.7671781378741167,
+          "medyan": 0.8002791971642331
+        },
+        "2021": {
+          "ortalama": 0.8166912132986736,
+          "medyan": 0.8354756315931554
+        },
+        "2022": {
+          "ortalama": 0.8353146389249687,
+          "medyan": 0.8067067478902259
+        }
+      }
+    },
+    {
+      "slug": "fati̇h-sultan-mehmet-vakif-üni̇versi̇tesi̇",
+      "name": "FATİH SULTAN MEHMET VAKIF ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2016": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2017": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2018": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2019": {
+          "ortalama": 0.6653721098734875,
+          "medyan": 0.9139972765190656
+        },
+        "2020": {
+          "ortalama": 0.677705606904384,
+          "medyan": 0.8580564858786269
+        },
+        "2021": {
+          "ortalama": 0.7039873808852097,
+          "medyan": 0.7603788231009793
+        },
+        "2022": {
+          "ortalama": null,
+          "medyan": null
+        }
+      }
+    },
+    {
+      "slug": "fenerbahçe-üni̇versi̇tesi̇",
+      "name": "FENERBAHÇE ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2016": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2017": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2018": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2019": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2020": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2021": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2022": {
+          "ortalama": null,
+          "medyan": null
+        }
+      }
+    },
+    {
+      "slug": "firat-üni̇versi̇tesi̇",
+      "name": "FIRAT ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2016": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2017": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2018": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2019": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2020": {
+          "ortalama": 0.8449749037498899,
+          "medyan": 0.8154053875580117
+        },
+        "2021": {
+          "ortalama": 0.8460989368023308,
+          "medyan": 0.8221197161438967
+        },
+        "2022": {
+          "ortalama": null,
+          "medyan": null
+        }
+      }
+    },
+    {
+      "slug": "galatasaray-üni̇versi̇tesi̇",
+      "name": "GALATASARAY ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": 0.7752979619518917,
+          "medyan": 0.9881158009367577
+        },
+        "2016": {
+          "ortalama": 0.7217642119722778,
+          "medyan": 0.9839042740704252
+        },
+        "2017": {
+          "ortalama": 0.8215149926078918,
+          "medyan": 0.9816765239950489
+        },
+        "2018": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2019": {
+          "ortalama": 0.7251668769591594,
+          "medyan": 0.6962457802717628
+        },
+        "2020": {
+          "ortalama": 0.7901449490536525,
+          "medyan": 0.9134281084112192
+        },
+        "2021": {
+          "ortalama": 0.7481350008777947,
+          "medyan": 0.9090448531780171
+        },
+        "2022": {
+          "ortalama": 0.5566433574876325,
+          "medyan": 0.9080034406173473
+        }
+      }
+    },
+    {
+      "slug": "gazi̇-üni̇versi̇tesi̇",
+      "name": "GAZİ ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2016": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2017": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2018": {
+          "ortalama": 0.8261676853326921,
+          "medyan": 0.8910590622202399
+        },
+        "2019": {
+          "ortalama": 0.8641456103495259,
+          "medyan": 0.9783076767222121
+        },
+        "2020": {
+          "ortalama": 0.8123818364735157,
+          "medyan": 0.7447133204707278
+        },
+        "2021": {
+          "ortalama": 0.8402755975288518,
+          "medyan": 0.7941505654971103
+        },
+        "2022": {
+          "ortalama": 0.8253585803540702,
+          "medyan": 0.7685220073615977
+        }
+      }
+    },
+    {
+      "slug": "gazi̇antep-i̇slam-bi̇li̇m-ve-teknoloji̇-üni̇versi̇tesi̇",
+      "name": "GAZİANTEP İSLAM BİLİM VE TEKNOLOJİ ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2016": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2017": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2018": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2019": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2020": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2021": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2022": {
+          "ortalama": null,
+          "medyan": null
+        }
+      }
+    },
+    {
+      "slug": "gazi̇antep-üni̇versi̇tesi̇",
+      "name": "GAZİANTEP ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2016": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2017": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2018": {
+          "ortalama": 0.8179222340869745,
+          "medyan": 0.773183970818521
+        },
+        "2019": {
+          "ortalama": 0.8535925963168387,
+          "medyan": 0.9780109073149366
+        },
+        "2020": {
+          "ortalama": 0.8105614785634316,
+          "medyan": 0.7663182215955484
+        },
+        "2021": {
+          "ortalama": 0.8212511257505418,
+          "medyan": 0.8076609987623081
+        },
+        "2022": {
+          "ortalama": 0.8267581436853519,
+          "medyan": 0.8127373183281744
+        }
+      }
+    },
+    {
+      "slug": "gebze-tekni̇k-üni̇versi̇tesi̇",
+      "name": "GEBZE TEKNİK ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2016": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2017": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2018": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2019": {
+          "ortalama": 0.8912091310946192,
+          "medyan": 0.9779522909811195
+        },
+        "2020": {
+          "ortalama": 0.8621960674800087,
+          "medyan": 0.9117192054263709
+        },
+        "2021": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2022": {
+          "ortalama": null,
+          "medyan": null
+        }
+      }
+    },
+    {
+      "slug": "gi̇resun-üni̇versi̇tesi̇",
+      "name": "GİRESUN ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2016": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2017": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2018": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2019": {
+          "ortalama": 0.8431017097616378,
+          "medyan": 0.8227519283205745
+        },
+        "2020": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2021": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2022": {
+          "ortalama": null,
+          "medyan": null
+        }
+      }
+    },
+    {
+      "slug": "gümüşhane-üni̇versi̇tesi̇",
+      "name": "GÜMÜŞHANE ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2016": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2017": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2018": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2019": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2020": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2021": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2022": {
+          "ortalama": null,
+          "medyan": null
+        }
+      }
+    },
+    {
+      "slug": "hacettepe-üni̇versi̇tesi̇",
+      "name": "HACETTEPE ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": 0.9242379277021365,
+          "medyan": 0.986248509568527
+        },
+        "2016": {
+          "ortalama": 0.9049247348454178,
+          "medyan": 0.9890875018301286
+        },
+        "2017": {
+          "ortalama": 0.8898615413154984,
+          "medyan": 0.9839110995191264
+        },
+        "2018": {
+          "ortalama": 0.8389998244928397,
+          "medyan": 0.7695758938706431
+        },
+        "2019": {
+          "ortalama": 0.8861630111828943,
+          "medyan": 0.9781460021149707
+        },
+        "2020": {
+          "ortalama": 0.8470624027628371,
+          "medyan": 0.8109814614031343
+        },
+        "2021": {
+          "ortalama": 0.8466430532404927,
+          "medyan": 0.8318638655744881
+        },
+        "2022": {
+          "ortalama": 0.873555093109713,
+          "medyan": 0.8199801054083884
+        }
+      }
+    },
+    {
+      "slug": "hakkari̇-üni̇versi̇tesi̇",
+      "name": "HAKKARİ ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2016": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2017": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2018": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2019": {
+          "ortalama": 0.7249122021857812,
+          "medyan": 0.6620517376364673
+        },
+        "2020": {
+          "ortalama": 0.7385112526022278,
+          "medyan": 0.8033425112379944
+        },
+        "2021": {
+          "ortalama": 0.7705418462759244,
+          "medyan": 0.9137081203246005
+        },
+        "2022": {
+          "ortalama": 0.7135227920692433,
+          "medyan": 0.9088941515852158
+        }
+      }
+    },
+    {
+      "slug": "hali̇ç-üni̇versi̇tesi̇",
+      "name": "HALİÇ ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2016": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2017": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2018": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2019": {
+          "ortalama": 0.4911272772268681,
+          "medyan": 0.7481236705267962
+        },
+        "2020": {
+          "ortalama": 0.5486439879440318,
+          "medyan": 0.6360548726022588
+        },
+        "2021": {
+          "ortalama": 0.6762083174009953,
+          "medyan": 0.6932391946928695
+        },
+        "2022": {
+          "ortalama": 0.5179688979582724,
+          "medyan": 0.6283157814485612
+        }
+      }
+    },
+    {
+      "slug": "harran-üni̇versi̇tesi̇",
+      "name": "HARRAN ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2016": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2017": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2018": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2019": {
+          "ortalama": 0.8055427823536978,
+          "medyan": 0.9778087026053705
+        },
+        "2020": {
+          "ortalama": 0.8046558486101328,
+          "medyan": 0.8945164246398392
+        },
+        "2021": {
+          "ortalama": 0.7635933328806468,
+          "medyan": 0.7913130642752543
+        },
+        "2022": {
+          "ortalama": 0.8190109355182801,
+          "medyan": 0.8336176831186666
+        }
+      }
+    },
+    {
+      "slug": "hasan-kalyoncu-üni̇versi̇tesi̇",
+      "name": "HASAN KALYONCU ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2016": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2017": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2018": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2019": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2020": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2021": {
+          "ortalama": 0.8475171425165225,
+          "medyan": 0.8361497454016078
+        },
+        "2022": {
+          "ortalama": 0.8447545802801918,
+          "medyan": 0.8633295203900543
+        }
+      }
+    },
+    {
+      "slug": "hatay-mustafa-kemal-üni̇versi̇tesi̇",
+      "name": "HATAY MUSTAFA KEMAL ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2016": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2017": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2018": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2019": {
+          "ortalama": 0.6912418253203465,
+          "medyan": 0.7447358807142618
+        },
+        "2020": {
+          "ortalama": 0.7310873008539939,
+          "medyan": 0.848460103348303
+        },
+        "2021": {
+          "ortalama": 0.757389659509849,
+          "medyan": 0.7129631386632137
+        },
+        "2022": {
+          "ortalama": 0.750586941219381,
+          "medyan": 0.767142203315008
+        }
+      }
+    },
+    {
+      "slug": "hi̇ti̇t-üni̇versi̇tesi̇",
+      "name": "HİTİT ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2016": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2017": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2018": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2019": {
+          "ortalama": 0.7828240745193622,
+          "medyan": 0.6726790355154953
+        },
+        "2020": {
+          "ortalama": 0.7142228935816028,
+          "medyan": 0.647291617305204
+        },
+        "2021": {
+          "ortalama": 0.7955077116636526,
+          "medyan": 0.7424325353255513
+        },
+        "2022": {
+          "ortalama": 0.7802810976876443,
+          "medyan": 0.6883799696939811
+        }
+      }
+    },
+    {
+      "slug": "iğdir-üni̇versi̇tesi̇",
+      "name": "IĞDIR ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2016": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2017": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2018": {
+          "ortalama": 0.7626450662931635,
+          "medyan": 0.8618842412421458
+        },
+        "2019": {
+          "ortalama": 0.8131576576328685,
+          "medyan": 0.9123884056382309
+        },
+        "2020": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2021": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2022": {
+          "ortalama": null,
+          "medyan": null
+        }
+      }
+    },
+    {
+      "slug": "isparta-uygulamali-bi̇li̇mler-üni̇versi̇tesi̇",
+      "name": "ISPARTA UYGULAMALI BİLİMLER ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2016": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2017": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2018": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2019": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2020": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2021": {
+          "ortalama": 0.7282715058537894,
+          "medyan": 0.7200715861610302
+        },
+        "2022": {
+          "ortalama": 0.7053650111680453,
+          "medyan": 0.7068067022163308
+        }
+      }
+    },
+    {
+      "slug": "işik-üni̇versi̇tesi̇",
+      "name": "IŞIK ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2016": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2017": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2018": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2019": {
+          "ortalama": 0.7728676433127262,
+          "medyan": 0.8500017252485559
+        },
+        "2020": {
+          "ortalama": 0.7220605484135497,
+          "medyan": 0.6427406598196559
+        },
+        "2021": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2022": {
+          "ortalama": 0.7261484596540394,
+          "medyan": 0.8525817032772774
+        }
+      }
+    },
+    {
+      "slug": "i̇bn-haldun-üni̇versi̇tesi̇",
+      "name": "İBN HALDUN ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2016": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2017": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2018": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2019": {
+          "ortalama": 0.7386334436566715,
+          "medyan": 0.8070835124940099
+        },
+        "2020": {
+          "ortalama": 0.64434566559848,
+          "medyan": 0.8028425437309878
+        },
+        "2021": {
+          "ortalama": 0.767939360146142,
+          "medyan": 0.5425420408246118
+        },
+        "2022": {
+          "ortalama": 0.716475937735657,
+          "medyan": 0.8694416585075768
+        }
+      }
+    },
+    {
+      "slug": "i̇hsan-doğramaci-bi̇lkent-üni̇versi̇tesi̇",
+      "name": "İHSAN DOĞRAMACI BİLKENT ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2016": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2017": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2018": {
+          "ortalama": 0.9036833484520145,
+          "medyan": 0.8598556231679143
+        },
+        "2019": {
+          "ortalama": 0.9061083444254036,
+          "medyan": 0.9781795330176325
+        },
+        "2020": {
+          "ortalama": 0.8813093294294735,
+          "medyan": 0.8654454481097239
+        },
+        "2021": {
+          "ortalama": 0.8773995542722688,
+          "medyan": 0.8804167711312725
+        },
+        "2022": {
+          "ortalama": 0.8901184064013365,
+          "medyan": 0.871230422353209
+        }
+      }
+    },
+    {
+      "slug": "i̇nönü-üni̇versi̇tesi̇",
+      "name": "İNÖNÜ ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2016": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2017": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2018": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2019": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2020": {
+          "ortalama": 0.7837478554190586,
+          "medyan": 0.8711883518793038
+        },
+        "2021": {
+          "ortalama": 0.802944996796114,
+          "medyan": 0.7353246501663911
+        },
+        "2022": {
+          "ortalama": 0.7815412231785565,
+          "medyan": 0.7253522973286363
+        }
+      }
+    },
+    {
+      "slug": "i̇skenderun-tekni̇k-üni̇versi̇tesi̇",
+      "name": "İSKENDERUN TEKNİK ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2016": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2017": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2018": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2019": {
+          "ortalama": 0.8412108996072788,
+          "medyan": 0.8771768993709366
+        },
+        "2020": {
+          "ortalama": 0.8232013699422606,
+          "medyan": 0.7531224081653136
+        },
+        "2021": {
+          "ortalama": 0.8572879316935516,
+          "medyan": 0.8974959068425934
+        },
+        "2022": {
+          "ortalama": 0.802023530236115,
+          "medyan": 0.9006947450058757
+        }
+      }
+    },
+    {
+      "slug": "i̇stanbul-29-mayis-üni̇versi̇tesi̇",
+      "name": "İSTANBUL 29 MAYIS ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2016": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2017": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2018": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2019": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2020": {
+          "ortalama": 0.47445724145788243,
+          "medyan": 0.3812219446741765
+        },
+        "2021": {
+          "ortalama": 0.19422789246141844,
+          "medyan": null
+        },
+        "2022": {
+          "ortalama": 0.5371374506687995,
+          "medyan": 0.6911430296569805
+        }
+      }
+    },
+    {
+      "slug": "i̇stanbul-arel-üni̇versi̇tesi̇",
+      "name": "İSTANBUL AREL ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": 0.7302486646683801,
+          "medyan": 0.9567264569348533
+        },
+        "2016": {
+          "ortalama": 0.7107681749550333,
+          "medyan": 0.9840322382317926
+        },
+        "2017": {
+          "ortalama": 0.8558546295737833,
+          "medyan": 0.9881961460399455
+        },
+        "2018": {
+          "ortalama": 0.679080848532498,
+          "medyan": 0.8692595019250796
+        },
+        "2019": {
+          "ortalama": 0.7304086721025977,
+          "medyan": 0.8303307222658141
+        },
+        "2020": {
+          "ortalama": 0.7571413472061985,
+          "medyan": 0.9262079998591297
+        },
+        "2021": {
+          "ortalama": 0.7242905107488923,
+          "medyan": 0.735835684338241
+        },
+        "2022": {
+          "ortalama": 0.5444921886053578,
+          "medyan": 0.8276880227502958
+        }
+      }
+    },
+    {
+      "slug": "i̇stanbul-atlas-üni̇versi̇tesi̇",
+      "name": "İSTANBUL ATLAS ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2016": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2017": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2018": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2019": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2020": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2021": {
+          "ortalama": 0.46024424597271635,
+          "medyan": 0.6910606104594712
+        },
+        "2022": {
+          "ortalama": 0.5538676927702907,
+          "medyan": 0.6996116054242356
+        }
+      }
+    },
+    {
+      "slug": "i̇stanbul-aydin-üni̇versi̇tesi̇",
+      "name": "İSTANBUL AYDIN ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2016": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2017": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2018": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2019": {
+          "ortalama": 0.8259963353055133,
+          "medyan": 0.9201437927941496
+        },
+        "2020": {
+          "ortalama": 0.879115081596387,
+          "medyan": 0.9204089078913533
+        },
+        "2021": {
+          "ortalama": 0.8154040124604331,
+          "medyan": 0.9246851302132979
+        },
+        "2022": {
+          "ortalama": 0.7703388599686873,
+          "medyan": 0.9236440082806604
+        }
+      }
+    },
+    {
+      "slug": "i̇stanbul-beykent-üni̇versi̇tesi̇",
+      "name": "İSTANBUL BEYKENT ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2016": {
+          "ortalama": 0.7156173282986819,
+          "medyan": 0.9904122122056666
+        },
+        "2017": {
+          "ortalama": 0.7769354736732258,
+          "medyan": 0.9880817581565324
+        },
+        "2018": {
+          "ortalama": 0.7982187418648927,
+          "medyan": 0.8725881151730321
+        },
+        "2019": {
+          "ortalama": 0.7967888486637057,
+          "medyan": 0.9179877438561541
+        },
+        "2020": {
+          "ortalama": 0.7730808563084052,
+          "medyan": 0.9149877800837405
+        },
+        "2021": {
+          "ortalama": 0.7391990008059641,
+          "medyan": 0.9202040023122429
+        },
+        "2022": {
+          "ortalama": 0.7150021800981422,
+          "medyan": 0.7569250279893717
+        }
+      }
+    },
+    {
+      "slug": "i̇stanbul-bi̇lgi̇-üni̇versi̇tesi̇",
+      "name": "İSTANBUL BİLGİ ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2016": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2017": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2018": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2019": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2020": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2021": {
+          "ortalama": 0.8566041147670211,
+          "medyan": 0.885912368252607
+        },
+        "2022": {
+          "ortalama": 0.840295508943165,
+          "medyan": 0.8282626827297316
+        }
+      }
+    },
+    {
+      "slug": "i̇stanbul-esenyurt-üni̇versi̇tesi̇",
+      "name": "İSTANBUL ESENYURT ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2016": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2017": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2018": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2019": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2020": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2021": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2022": {
+          "ortalama": null,
+          "medyan": null
+        }
+      }
+    },
+    {
+      "slug": "i̇stanbul-galata-üni̇versi̇tesi̇",
+      "name": "İSTANBUL GALATA ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2016": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2017": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2018": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2019": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2020": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2021": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2022": {
+          "ortalama": null,
+          "medyan": null
+        }
+      }
+    },
+    {
+      "slug": "i̇stanbul-gedi̇k-üni̇versi̇tesi̇",
+      "name": "İSTANBUL GEDİK ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2016": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2017": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2018": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2019": {
+          "ortalama": 0.69869590199869,
+          "medyan": 0.7322793921165087
+        },
+        "2020": {
+          "ortalama": 0.471559030764293,
+          "medyan": 0.2951203524390393
+        },
+        "2021": {
+          "ortalama": 0.5634514038774473,
+          "medyan": 0.43089124492237807
+        },
+        "2022": {
+          "ortalama": null,
+          "medyan": null
+        }
+      }
+    },
+    {
+      "slug": "i̇stanbul-geli̇şi̇m-üni̇versi̇tesi̇",
+      "name": "İSTANBUL GELİŞİM ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2016": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2017": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2018": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2019": {
+          "ortalama": 0.5859479093122056,
+          "medyan": 0.8627056402928728
+        },
+        "2020": {
+          "ortalama": 0.7511254760883336,
+          "medyan": 0.6108490091693894
+        },
+        "2021": {
+          "ortalama": 0.7626841737626461,
+          "medyan": 0.6669095718833727
+        },
+        "2022": {
+          "ortalama": 0.8097199043932857,
+          "medyan": 0.8886478528850409
+        }
+      }
+    },
+    {
+      "slug": "i̇stanbul-kent-üni̇versi̇tesi̇",
+      "name": "İSTANBUL KENT ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2016": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2017": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2018": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2019": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2020": {
+          "ortalama": 0.6030435309567315,
+          "medyan": 0.3621455729796236
+        },
+        "2021": {
+          "ortalama": 0.6215131507018993,
+          "medyan": 0.6830591721287405
+        },
+        "2022": {
+          "ortalama": 0.5516883102900845,
+          "medyan": 0.3209971030713519
+        }
+      }
+    },
+    {
+      "slug": "i̇stanbul-kültür-üni̇versi̇tesi̇",
+      "name": "İSTANBUL KÜLTÜR ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2016": {
+          "ortalama": 0.6659122615773551,
+          "medyan": 0.9019561318684243
+        },
+        "2017": {
+          "ortalama": 0.8098497006157767,
+          "medyan": 0.9811473603641966
+        },
+        "2018": {
+          "ortalama": 0.738835553767029,
+          "medyan": 0.6986339345662553
+        },
+        "2019": {
+          "ortalama": 0.7614508302323733,
+          "medyan": 0.9774937731199228
+        },
+        "2020": {
+          "ortalama": 0.7000034855554604,
+          "medyan": 0.6817353070793716
+        },
+        "2021": {
+          "ortalama": 0.711434186936977,
+          "medyan": 0.8822818461294659
+        },
+        "2022": {
+          "ortalama": 0.7148506048428108,
+          "medyan": 0.7174929256699519
+        }
+      }
+    },
+    {
+      "slug": "i̇stanbul-medeni̇yet-üni̇versi̇tesi̇",
+      "name": "İSTANBUL MEDENİYET ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2016": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2017": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2018": {
+          "ortalama": 0.7820355832935296,
+          "medyan": 0.7553679415029294
+        },
+        "2019": {
+          "ortalama": 0.8557884646041954,
+          "medyan": 0.9779921080352031
+        },
+        "2020": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2021": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2022": {
+          "ortalama": null,
+          "medyan": null
+        }
+      }
+    },
+    {
+      "slug": "i̇stanbul-medi̇pol-üni̇versi̇tesi̇",
+      "name": "İSTANBUL MEDİPOL ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": 0.6349375208401653,
+          "medyan": 0.46776245181573456
+        },
+        "2016": {
+          "ortalama": 0.7628470101767533,
+          "medyan": 0.9840785310368416
+        },
+        "2017": {
+          "ortalama": 0.8393522271170655,
+          "medyan": 0.9811614672761672
+        },
+        "2018": {
+          "ortalama": 0.7062896526018654,
+          "medyan": 0.7218081716336777
+        },
+        "2019": {
+          "ortalama": 0.7759873923873729,
+          "medyan": 0.980246891975953
+        },
+        "2020": {
+          "ortalama": 0.7801974685432529,
+          "medyan": 0.8538343958048845
+        },
+        "2021": {
+          "ortalama": 0.7973704664532772,
+          "medyan": 0.7730630699731429
+        },
+        "2022": {
+          "ortalama": 0.8039197302429445,
+          "medyan": 0.7790082783138328
+        }
+      }
+    },
+    {
+      "slug": "i̇stanbul-ni̇şantaşi-üni̇versi̇tesi̇",
+      "name": "İSTANBUL NİŞANTAŞI ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2016": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2017": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2018": {
+          "ortalama": 0.6008555820033247,
+          "medyan": 0.7213937667819041
+        },
+        "2019": {
+          "ortalama": 0.5291988538714539,
+          "medyan": 0.4644346344131745
+        },
+        "2020": {
+          "ortalama": 0.6257718055765928,
+          "medyan": 0.7515123157659922
+        },
+        "2021": {
+          "ortalama": 0.7130417382036243,
+          "medyan": 0.7424886263989804
+        },
+        "2022": {
+          "ortalama": null,
+          "medyan": null
+        }
+      }
+    },
+    {
+      "slug": "i̇stanbul-okan-üni̇versi̇tesi̇",
+      "name": "İSTANBUL OKAN ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": 0.8141638747737534,
+          "medyan": 0.9840381012011568
+        },
+        "2016": {
+          "ortalama": 0.7110316395493861,
+          "medyan": 0.8018785602333931
+        },
+        "2017": {
+          "ortalama": 0.780197810943413,
+          "medyan": 0.9811505338903413
+        },
+        "2018": {
+          "ortalama": 0.7432655281923409,
+          "medyan": 0.778279923397281
+        },
+        "2019": {
+          "ortalama": 0.7361124025949441,
+          "medyan": 0.977855261452422
+        },
+        "2020": {
+          "ortalama": 0.7246630170538516,
+          "medyan": 0.8612378552340869
+        },
+        "2021": {
+          "ortalama": 0.7018465167194815,
+          "medyan": 0.9092605105873706
+        },
+        "2022": {
+          "ortalama": 0.7174339733346033,
+          "medyan": 0.767492062058571
+        }
+      }
+    },
+    {
+      "slug": "i̇stanbul-rumeli̇-üni̇versi̇tesi̇",
+      "name": "İSTANBUL RUMELİ ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2016": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2017": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2018": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2019": {
+          "ortalama": 0.3278429465454333,
+          "medyan": 0.1904763120334294
+        },
+        "2020": {
+          "ortalama": 0.4216279480773039,
+          "medyan": 0.31288846575755064
+        },
+        "2021": {
+          "ortalama": 0.6450573611760881,
+          "medyan": 0.8675130169908498
+        },
+        "2022": {
+          "ortalama": 0.5882549863315911,
+          "medyan": 0.7766523798293059
+        }
+      }
+    },
+    {
+      "slug": "i̇stanbul-sabahatti̇n-zai̇m-üni̇versi̇tesi̇",
+      "name": "İSTANBUL SABAHATTİN ZAİM ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2016": {
+          "ortalama": 0.605583619374294,
+          "medyan": 0.9840271690202307
+        },
+        "2017": {
+          "ortalama": 0.7973063227871852,
+          "medyan": 0.5950181295560376
+        },
+        "2018": {
+          "ortalama": 0.677826067276488,
+          "medyan": 0.7145838849993323
+        },
+        "2019": {
+          "ortalama": 0.6854208044406087,
+          "medyan": 0.8507648333832498
+        },
+        "2020": {
+          "ortalama": 0.6829518186554506,
+          "medyan": 0.7780422702236728
+        },
+        "2021": {
+          "ortalama": 0.7307391303345843,
+          "medyan": 0.8912314904057801
+        },
+        "2022": {
+          "ortalama": 0.7632437231915896,
+          "medyan": 0.7929822264626005
+        }
+      }
+    },
+    {
+      "slug": "i̇stanbul-sağlik-ve-sosyal-bi̇li̇mler-meslek-yüksekokulu",
+      "name": "İSTANBUL SAĞLIK VE SOSYAL BİLİMLER MESLEK YÜKSEKOKULU",
+      "scores": {
+        "2015": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2016": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2017": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2018": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2019": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2020": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2021": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2022": {
+          "ortalama": null,
+          "medyan": null
+        }
+      }
+    },
+    {
+      "slug": "i̇stanbul-sağlik-ve-teknoloji̇-üni̇versi̇tesi̇",
+      "name": "İSTANBUL SAĞLIK VE TEKNOLOJİ ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2016": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2017": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2018": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2019": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2020": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2021": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2022": {
+          "ortalama": null,
+          "medyan": null
+        }
+      }
+    },
+    {
+      "slug": "i̇stanbul-şi̇şli̇-meslek-yüksekokulu",
+      "name": "İSTANBUL ŞİŞLİ MESLEK YÜKSEKOKULU",
+      "scores": {
+        "2015": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2016": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2017": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2018": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2019": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2020": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2021": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2022": {
+          "ortalama": null,
+          "medyan": null
+        }
+      }
+    },
+    {
+      "slug": "i̇stanbul-tekni̇k-üni̇versi̇tesi̇",
+      "name": "İSTANBUL TEKNİK ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2016": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2017": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2018": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2019": {
+          "ortalama": 0.8926728645818276,
+          "medyan": 0.9782870935752866
+        },
+        "2020": {
+          "ortalama": 0.8635619483861044,
+          "medyan": 0.836960698626099
+        },
+        "2021": {
+          "ortalama": 0.8821632408946132,
+          "medyan": 0.8708836346443688
+        },
+        "2022": {
+          "ortalama": 0.8814755193371914,
+          "medyan": 0.8644189703254056
+        }
+      }
+    },
+    {
+      "slug": "i̇stanbul-ti̇caret-üni̇versi̇tesi̇",
+      "name": "İSTANBUL TİCARET ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2016": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2017": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2018": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2019": {
+          "ortalama": 0.6257610642342069,
+          "medyan": 0.6558794171044122
+        },
+        "2020": {
+          "ortalama": 0.6386463069499833,
+          "medyan": 0.7367034995959223
+        },
+        "2021": {
+          "ortalama": 0.71949065059913,
+          "medyan": 0.8763627353272421
+        },
+        "2022": {
+          "ortalama": 0.815309700261441,
+          "medyan": 0.8580339735719652
+        }
+      }
+    },
+    {
+      "slug": "i̇stanbul-topkapi-üni̇versi̇tesi̇",
+      "name": "İSTANBUL TOPKAPI ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2016": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2017": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2018": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2019": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2020": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2021": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2022": {
+          "ortalama": 0.29008680078529003,
+          "medyan": null
+        }
+      }
+    },
+    {
+      "slug": "i̇stanbul-üni̇versi̇tesi̇",
+      "name": "İSTANBUL ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2016": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2017": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2018": {
+          "ortalama": 0.7987722703578444,
+          "medyan": 0.7719667597419848
+        },
+        "2019": {
+          "ortalama": 0.8455496685713116,
+          "medyan": 0.9783413336286058
+        },
+        "2020": {
+          "ortalama": 0.8276723637981713,
+          "medyan": 0.7650604611202549
+        },
+        "2021": {
+          "ortalama": 0.838272564004522,
+          "medyan": 0.8199305027462499
+        },
+        "2022": {
+          "ortalama": 0.8132717000563071,
+          "medyan": 0.7796272156849539
+        }
+      }
+    },
+    {
+      "slug": "i̇stanbul-üni̇versi̇tesi̇-cerrahpaşa",
+      "name": "İSTANBUL ÜNİVERSİTESİ-CERRAHPAŞA",
+      "scores": {
+        "2015": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2016": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2017": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2018": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2019": {
+          "ortalama": 0.8382595206157586,
+          "medyan": 0.9783797441243212
+        },
+        "2020": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2021": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2022": {
+          "ortalama": 0.8605133666268729,
+          "medyan": 0.8068191736633847
+        }
+      }
+    },
+    {
+      "slug": "i̇stanbul-yeni̇-yüzyil-üni̇versi̇tesi̇",
+      "name": "İSTANBUL YENİ YÜZYIL ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2016": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2017": {
+          "ortalama": 0.7941915136921257,
+          "medyan": 0.9877574664143411
+        },
+        "2018": {
+          "ortalama": 0.6033610593397183,
+          "medyan": 0.7671023546949443
+        },
+        "2019": {
+          "ortalama": 0.5023319837055366,
+          "medyan": 0.6772704153452888
+        },
+        "2020": {
+          "ortalama": 0.6701496972078863,
+          "medyan": 0.8300093839694149
+        },
+        "2021": {
+          "ortalama": 0.6745142159668474,
+          "medyan": 0.8466024353023638
+        },
+        "2022": {
+          "ortalama": 0.634172317658103,
+          "medyan": 0.4910534091535992
+        }
+      }
+    },
+    {
+      "slug": "i̇sti̇nye-üni̇versi̇tesi̇",
+      "name": "İSTİNYE ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2016": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2017": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2018": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2019": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2020": {
+          "ortalama": 0.6479263114730657,
+          "medyan": 0.5980151418522283
+        },
+        "2021": {
+          "ortalama": 0.8386759819981955,
+          "medyan": 0.9386887263014854
+        },
+        "2022": {
+          "ortalama": 0.8964651445203751,
+          "medyan": 0.8903451375012386
+        }
+      }
+    },
+    {
+      "slug": "i̇zmi̇r-bakirçay-üni̇versi̇tesi̇",
+      "name": "İZMİR BAKIRÇAY ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2016": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2017": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2018": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2019": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2020": {
+          "ortalama": 0.7283389468796264,
+          "medyan": 0.6141638207737534
+        },
+        "2021": {
+          "ortalama": 0.759290053044733,
+          "medyan": 0.7805228009276809
+        },
+        "2022": {
+          "ortalama": 0.7078867331571076,
+          "medyan": 0.7392981918899575
+        }
+      }
+    },
+    {
+      "slug": "i̇zmi̇r-demokrasi̇-üni̇versi̇tesi̇",
+      "name": "İZMİR DEMOKRASİ ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2016": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2017": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2018": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2019": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2020": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2021": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2022": {
+          "ortalama": null,
+          "medyan": null
+        }
+      }
+    },
+    {
+      "slug": "i̇zmi̇r-ekonomi̇-üni̇versi̇tesi̇",
+      "name": "İZMİR EKONOMİ ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2016": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2017": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2018": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2019": {
+          "ortalama": 0.8001100034757389,
+          "medyan": 0.9027182133161553
+        },
+        "2020": {
+          "ortalama": 0.8247297546266639,
+          "medyan": 0.9878925417754014
+        },
+        "2021": {
+          "ortalama": 0.771047642034495,
+          "medyan": 0.9101842886144186
+        },
+        "2022": {
+          "ortalama": 0.7889721744984102,
+          "medyan": 0.799870784330187
+        }
+      }
+    },
+    {
+      "slug": "i̇zmi̇r-kati̇p-çelebi̇-üni̇versi̇tesi̇",
+      "name": "İZMİR KATİP ÇELEBİ ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2016": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2017": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2018": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2019": {
+          "ortalama": 0.7429038164524607,
+          "medyan": 0.7739389250862049
+        },
+        "2020": {
+          "ortalama": 0.7820995676707215,
+          "medyan": 0.7588769475965966
+        },
+        "2021": {
+          "ortalama": 0.811204209066224,
+          "medyan": 0.8996893684818208
+        },
+        "2022": {
+          "ortalama": 0.8109686623551923,
+          "medyan": 0.7817201017531805
+        }
+      }
+    },
+    {
+      "slug": "i̇zmi̇r-kavram-meslek-yüksekokulu",
+      "name": "İZMİR KAVRAM MESLEK YÜKSEKOKULU",
+      "scores": {
+        "2015": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2016": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2017": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2018": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2019": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2020": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2021": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2022": {
+          "ortalama": null,
+          "medyan": null
+        }
+      }
+    },
+    {
+      "slug": "i̇zmi̇r-tinaztepe-üni̇versi̇tesi̇",
+      "name": "İZMİR TINAZTEPE ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2016": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2017": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2018": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2019": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2020": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2021": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2022": {
+          "ortalama": null,
+          "medyan": null
+        }
+      }
+    },
+    {
+      "slug": "i̇zmi̇r-yüksek-teknoloji̇-ensti̇tüsü",
+      "name": "İZMİR YÜKSEK TEKNOLOJİ ENSTİTÜSÜ",
+      "scores": {
+        "2015": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2016": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2017": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2018": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2019": {
+          "ortalama": 0.9160079167021682,
+          "medyan": 0.9779798809802756
+        },
+        "2020": {
+          "ortalama": 0.845698336276906,
+          "medyan": 0.8039684945416788
+        },
+        "2021": {
+          "ortalama": 0.8706830165750148,
+          "medyan": 0.8438310337828602
+        },
+        "2022": {
+          "ortalama": null,
+          "medyan": null
+        }
+      }
+    },
+    {
+      "slug": "kadi̇r-has-üni̇versi̇tesi̇",
+      "name": "KADİR HAS ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2016": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2017": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2018": {
+          "ortalama": 0.776308314494319,
+          "medyan": 0.7450792850987361
+        },
+        "2019": {
+          "ortalama": 0.7789460928846469,
+          "medyan": 0.9779541323083363
+        },
+        "2020": {
+          "ortalama": 0.8263403355960831,
+          "medyan": 0.8442899610092174
+        },
+        "2021": {
+          "ortalama": 0.8393875255194667,
+          "medyan": 0.8636744408500732
+        },
+        "2022": {
+          "ortalama": 0.8402235145582568,
+          "medyan": 0.9269171032644987
+        }
+      }
+    },
+    {
+      "slug": "kafkas-üni̇versi̇tesi̇",
+      "name": "KAFKAS ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2016": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2017": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2018": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2019": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2020": {
+          "ortalama": 0.7828242451925614,
+          "medyan": 0.8030785192604879
+        },
+        "2021": {
+          "ortalama": 0.7362113549818241,
+          "medyan": 0.8159122999640392
+        },
+        "2022": {
+          "ortalama": 0.726208288821728,
+          "medyan": 0.9124413542849806
+        }
+      }
+    },
+    {
+      "slug": "kahramanmaraş-i̇sti̇klal-üni̇versi̇tesi̇",
+      "name": "KAHRAMANMARAŞ İSTİKLAL ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2016": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2017": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2018": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2019": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2020": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2021": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2022": {
+          "ortalama": null,
+          "medyan": null
+        }
+      }
+    },
+    {
+      "slug": "kahramanmaraş-sütçü-i̇mam-üni̇versi̇tesi̇",
+      "name": "KAHRAMANMARAŞ SÜTÇÜ İMAM ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2016": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2017": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2018": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2019": {
+          "ortalama": 0.7470631996103065,
+          "medyan": 0.9779583679682355
+        },
+        "2020": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2021": {
+          "ortalama": 0.7795094437461993,
+          "medyan": 0.7699591731853063
+        },
+        "2022": {
+          "ortalama": 0.7573884769864759,
+          "medyan": 0.6962337358285525
+        }
+      }
+    },
+    {
+      "slug": "kapadokya-üni̇versi̇tesi̇",
+      "name": "KAPADOKYA ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2016": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2017": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2018": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2019": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2020": {
+          "ortalama": 0.5317450746945165,
+          "medyan": null
+        },
+        "2021": {
+          "ortalama": 0.6428801084129386,
+          "medyan": 0.7035475961823335
+        },
+        "2022": {
+          "ortalama": 0.5908332572552383,
+          "medyan": 0.7315203092958211
+        }
+      }
+    },
+    {
+      "slug": "karabük-üni̇versi̇tesi̇",
+      "name": "KARABÜK ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2016": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2017": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2018": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2019": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2020": {
+          "ortalama": 0.832458583638558,
+          "medyan": 0.8923439535132566
+        },
+        "2021": {
+          "ortalama": 0.8033845352300915,
+          "medyan": 0.7918290241290068
+        },
+        "2022": {
+          "ortalama": 0.8370471498149974,
+          "medyan": 0.8236611398493525
+        }
+      }
+    },
+    {
+      "slug": "karadeni̇z-tekni̇k-üni̇versi̇tesi̇",
+      "name": "KARADENİZ TEKNİK ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": 0.8282905605562236,
+          "medyan": 0.9850561157656732
+        },
+        "2016": {
+          "ortalama": 0.8145708809010352,
+          "medyan": 0.9840155964438482
+        },
+        "2017": {
+          "ortalama": 0.8783505773522813,
+          "medyan": 0.9813948323595433
+        },
+        "2018": {
+          "ortalama": 0.7932163307753766,
+          "medyan": 0.7863573948171444
+        },
+        "2019": {
+          "ortalama": 0.829085632242983,
+          "medyan": 0.9803853760359024
+        },
+        "2020": {
+          "ortalama": 0.79591390944599,
+          "medyan": 0.7739308477863179
+        },
+        "2021": {
+          "ortalama": 0.8118145914367443,
+          "medyan": 0.8134338921983933
+        },
+        "2022": {
+          "ortalama": 0.8435582269542155,
+          "medyan": 0.8435138085583427
+        }
+      }
+    },
+    {
+      "slug": "karamanoğlu-mehmetbey-üni̇versi̇tesi̇",
+      "name": "KARAMANOĞLU MEHMETBEY ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2016": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2017": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2018": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2019": {
+          "ortalama": 0.8815784071483005,
+          "medyan": 0.9777373469032598
+        },
+        "2020": {
+          "ortalama": 0.8655785514098449,
+          "medyan": 0.876801656323989
+        },
+        "2021": {
+          "ortalama": 0.849586923220585,
+          "medyan": 0.9236896377520076
+        },
+        "2022": {
+          "ortalama": 0.8824046009338152,
+          "medyan": 0.8710620792277151
+        }
+      }
+    },
+    {
+      "slug": "kastamonu-üni̇versi̇tesi̇",
+      "name": "KASTAMONU ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2016": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2017": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2018": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2019": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2020": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2021": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2022": {
+          "ortalama": 0.8220527186148974,
+          "medyan": 0.8489461244940948
+        }
+      }
+    },
+    {
+      "slug": "kayseri̇-üni̇versi̇tesi̇",
+      "name": "KAYSERİ ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2016": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2017": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2018": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2019": {
+          "ortalama": 0.6576512924451338,
+          "medyan": 0.7238413159126174
+        },
+        "2020": {
+          "ortalama": 0.6795893322473727,
+          "medyan": 0.696392796605546
+        },
+        "2021": {
+          "ortalama": 0.7443957631883895,
+          "medyan": 0.7403168898661817
+        },
+        "2022": {
+          "ortalama": 0.8245413347480802,
+          "medyan": 0.8719322271607332
+        }
+      }
+    },
+    {
+      "slug": "kirikkale-üni̇versi̇tesi̇",
+      "name": "KIRIKKALE ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2016": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2017": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2018": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2019": {
+          "ortalama": 0.7058972063150774,
+          "medyan": 0.9778750025269173
+        },
+        "2020": {
+          "ortalama": 0.7817225297688554,
+          "medyan": 0.8534833841229585
+        },
+        "2021": {
+          "ortalama": 0.742763560242581,
+          "medyan": 0.6746362298930189
+        },
+        "2022": {
+          "ortalama": 0.7538642928647127,
+          "medyan": 0.7195465447385312
+        }
+      }
+    },
+    {
+      "slug": "kirklareli̇-üni̇versi̇tesi̇",
+      "name": "KIRKLARELİ ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2016": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2017": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2018": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2019": {
+          "ortalama": 0.6325178469197512,
+          "medyan": 0.8080808082938047
+        },
+        "2020": {
+          "ortalama": 0.6362725920767207,
+          "medyan": 0.7735037175702172
+        },
+        "2021": {
+          "ortalama": 0.6229316428616861,
+          "medyan": 0.6883684109696546
+        },
+        "2022": {
+          "ortalama": 0.6804755129503655,
+          "medyan": 0.7672253854820194
+        }
+      }
+    },
+    {
+      "slug": "kirşehi̇r-ahi̇-evran-üni̇versi̇tesi̇",
+      "name": "KIRŞEHİR AHİ EVRAN ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2016": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2017": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2018": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2019": {
+          "ortalama": 0.7222372149093026,
+          "medyan": 0.8573533596039455
+        },
+        "2020": {
+          "ortalama": 0.6871503350727303,
+          "medyan": 0.704721077630881
+        },
+        "2021": {
+          "ortalama": 0.7842936519488529,
+          "medyan": 0.8630308217781216
+        },
+        "2022": {
+          "ortalama": 0.7791679756972483,
+          "medyan": 0.7164795152734191
+        }
+      }
+    },
+    {
+      "slug": "ki̇li̇s-7-aralik-üni̇versi̇tesi̇",
+      "name": "KİLİS 7 ARALIK ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": 0.7770391360992255,
+          "medyan": 0.9714567532102896
+        },
+        "2016": {
+          "ortalama": 0.7849084296173027,
+          "medyan": 0.9838976262811915
+        },
+        "2017": {
+          "ortalama": 0.8818995074420211,
+          "medyan": 0.9769831860365394
+        },
+        "2018": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2019": {
+          "ortalama": 0.6461265101003862,
+          "medyan": 0.7885309224058044
+        },
+        "2020": {
+          "ortalama": 0.7894376452521437,
+          "medyan": 0.7280693113550744
+        },
+        "2021": {
+          "ortalama": 0.7117116962532674,
+          "medyan": 0.7237853971505731
+        },
+        "2022": {
+          "ortalama": 0.7056941311965491,
+          "medyan": 0.8272589889928703
+        }
+      }
+    },
+    {
+      "slug": "kocaeli̇-sağlik-ve-teknoloji̇-üni̇versi̇tesi̇",
+      "name": "KOCAELİ SAĞLIK VE TEKNOLOJİ ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2016": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2017": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2018": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2019": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2020": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2021": {
+          "ortalama": 0.23307792261144988,
+          "medyan": 0.058102452181264384
+        },
+        "2022": {
+          "ortalama": null,
+          "medyan": null
+        }
+      }
+    },
+    {
+      "slug": "kocaeli̇-üni̇versi̇tesi̇",
+      "name": "KOCAELİ ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": 0.850547953399626,
+          "medyan": 0.9576626677506519
+        },
+        "2016": {
+          "ortalama": 0.7528107869520402,
+          "medyan": 0.909729848239903
+        },
+        "2017": {
+          "ortalama": 0.8748576572794966,
+          "medyan": 0.9813474864128013
+        },
+        "2018": {
+          "ortalama": 0.8059991445326703,
+          "medyan": 0.813895455165639
+        },
+        "2019": {
+          "ortalama": 0.7986068751071685,
+          "medyan": 0.9780425446496517
+        },
+        "2020": {
+          "ortalama": 0.7777357827205792,
+          "medyan": 0.7390136862161599
+        },
+        "2021": {
+          "ortalama": 0.7963263018395931,
+          "medyan": 0.7472070167522462
+        },
+        "2022": {
+          "ortalama": 0.7967697392203558,
+          "medyan": 0.7618659036573867
+        }
+      }
+    },
+    {
+      "slug": "koç-üni̇versi̇tesi̇",
+      "name": "KOÇ ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": 0.7899565801086151,
+          "medyan": 0.7474790557474418
+        },
+        "2016": {
+          "ortalama": 0.8356863217510793,
+          "medyan": 0.8253755658904617
+        },
+        "2017": {
+          "ortalama": 0.9062298785012837,
+          "medyan": 0.9814538765815933
+        },
+        "2018": {
+          "ortalama": 0.7610274293314873,
+          "medyan": 0.8157102382214009
+        },
+        "2019": {
+          "ortalama": 0.8692376941766995,
+          "medyan": 0.9780411076443608
+        },
+        "2020": {
+          "ortalama": 0.884607750479833,
+          "medyan": 0.8695819664788794
+        },
+        "2021": {
+          "ortalama": 0.9174439478074429,
+          "medyan": 0.8956080793230381
+        },
+        "2022": {
+          "ortalama": 0.9065761202633809,
+          "medyan": 0.8697205072392384
+        }
+      }
+    },
+    {
+      "slug": "konya-gida-ve-tarim-üni̇versi̇tesi̇",
+      "name": "KONYA GIDA VE TARIM ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2016": {
+          "ortalama": 0.7613449199821258,
+          "medyan": 0.556360990188279
+        },
+        "2017": {
+          "ortalama": 0.6695354056280644,
+          "medyan": 0.9812594020133714
+        },
+        "2018": {
+          "ortalama": 0.7457001091339202,
+          "medyan": 0.7515155126328804
+        },
+        "2019": {
+          "ortalama": 0.7848042747154407,
+          "medyan": 0.8936012299526466
+        },
+        "2020": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2021": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2022": {
+          "ortalama": 0.774839822043203,
+          "medyan": 0.7849647173037108
+        }
+      }
+    },
+    {
+      "slug": "konya-tekni̇k-üni̇versi̇tesi̇",
+      "name": "KONYA TEKNİK ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2016": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2017": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2018": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2019": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2020": {
+          "ortalama": 0.7981683759724226,
+          "medyan": 0.7595765753047502
+        },
+        "2021": {
+          "ortalama": 0.8381016107195393,
+          "medyan": 0.8683984980194839
+        },
+        "2022": {
+          "ortalama": 0.8666856079198361,
+          "medyan": 0.8550836890254911
+        }
+      }
+    },
+    {
+      "slug": "kto-karatay-üni̇versi̇tesi̇",
+      "name": "KTO KARATAY ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2016": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2017": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2018": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2019": {
+          "ortalama": 0.7789864631106246,
+          "medyan": 0.9082735509359914
+        },
+        "2020": {
+          "ortalama": 0.7711550030757439,
+          "medyan": 0.7707633269027823
+        },
+        "2021": {
+          "ortalama": 0.7062349836317164,
+          "medyan": 0.8294381362367533
+        },
+        "2022": {
+          "ortalama": null,
+          "medyan": null
+        }
+      }
+    },
+    {
+      "slug": "kütahya-dumlupinar-üni̇versi̇tesi̇",
+      "name": "KÜTAHYA DUMLUPINAR ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2016": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2017": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2018": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2019": {
+          "ortalama": 0.8032088845759675,
+          "medyan": 0.7688964738826605
+        },
+        "2020": {
+          "ortalama": 0.6660177784250194,
+          "medyan": 0.5602735882130746
+        },
+        "2021": {
+          "ortalama": 0.7505742314043939,
+          "medyan": 0.7995006135443029
+        },
+        "2022": {
+          "ortalama": 0.7535267275733355,
+          "medyan": 0.7619518693897271
+        }
+      }
+    },
+    {
+      "slug": "kütahya-sağlik-bi̇li̇mleri̇-üni̇versi̇tesi̇",
+      "name": "KÜTAHYA SAĞLIK BİLİMLERİ ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2016": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2017": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2018": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2019": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2020": {
+          "ortalama": 0.5711579407938814,
+          "medyan": 0.4852828703007461
+        },
+        "2021": {
+          "ortalama": 0.6325873234448528,
+          "medyan": 0.5707522367787973
+        },
+        "2022": {
+          "ortalama": 0.7480427203078264,
+          "medyan": 0.6364560354525403
+        }
+      }
+    },
+    {
+      "slug": "lokman-heki̇m-üni̇versi̇tesi̇",
+      "name": "LOKMAN HEKİM ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2016": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2017": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2018": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2019": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2020": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2021": {
+          "ortalama": 0.7018021071129799,
+          "medyan": 0.7494893748492031
+        },
+        "2022": {
+          "ortalama": 0.7073771717351932,
+          "medyan": 0.7521345477770712
+        }
+      }
+    },
+    {
+      "slug": "malatya-turgut-özal-üni̇versi̇tesi̇",
+      "name": "MALATYA TURGUT ÖZAL ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2016": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2017": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2018": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2019": {
+          "ortalama": 0.8061529553656597,
+          "medyan": 0.759269378793454
+        },
+        "2020": {
+          "ortalama": 0.7768155038693892,
+          "medyan": 0.8174517523260074
+        },
+        "2021": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2022": {
+          "ortalama": 0.792486254734633,
+          "medyan": 0.9020888008467969
+        }
+      }
+    },
+    {
+      "slug": "maltepe-üni̇versi̇tesi̇",
+      "name": "MALTEPE ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": 0.6947672528971154,
+          "medyan": 0.6245924479200521
+        },
+        "2016": {
+          "ortalama": 0.650135439992038,
+          "medyan": 0.8825701063410833
+        },
+        "2017": {
+          "ortalama": 0.66093486245,
+          "medyan": 0.9699137897437484
+        },
+        "2018": {
+          "ortalama": 0.549959944366318,
+          "medyan": 0.3194810989898458
+        },
+        "2019": {
+          "ortalama": 0.6446928870993947,
+          "medyan": 0.9125496112602335
+        },
+        "2020": {
+          "ortalama": 0.6847344838719401,
+          "medyan": 0.8647865596940092
+        },
+        "2021": {
+          "ortalama": 0.7126425518796858,
+          "medyan": 0.7763969671306139
+        },
+        "2022": {
+          "ortalama": 0.6810556873780447,
+          "medyan": 0.7272903480388325
+        }
+      }
+    },
+    {
+      "slug": "mani̇sa-celâl-bayar-üni̇versi̇tesi̇",
+      "name": "MANİSA CELÂL BAYAR ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": 0.7785751740679273,
+          "medyan": 0.6918170142881577
+        },
+        "2016": {
+          "ortalama": 0.8347002034768252,
+          "medyan": 0.9889831170492597
+        },
+        "2017": {
+          "ortalama": 0.8780854502945092,
+          "medyan": 0.9771764085386635
+        },
+        "2018": {
+          "ortalama": 0.7697245662446985,
+          "medyan": 0.647299861584183
+        },
+        "2019": {
+          "ortalama": 0.7956692037400313,
+          "medyan": 0.9779327117639381
+        },
+        "2020": {
+          "ortalama": 0.8028662707297219,
+          "medyan": 0.8746806031807588
+        },
+        "2021": {
+          "ortalama": 0.7857819032967464,
+          "medyan": 0.7823743171699158
+        },
+        "2022": {
+          "ortalama": 0.8163742093784137,
+          "medyan": 0.8117854342346652
+        }
+      }
+    },
+    {
+      "slug": "mardi̇n-artuklu-üni̇versi̇tesi̇",
+      "name": "MARDİN ARTUKLU ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2016": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2017": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2018": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2019": {
+          "ortalama": 0.6263692340850963,
+          "medyan": 0.34321429983264057
+        },
+        "2020": {
+          "ortalama": 0.5599740891403769,
+          "medyan": 0.6583949107959045
+        },
+        "2021": {
+          "ortalama": 0.6578964903616809,
+          "medyan": 0.6980420701160349
+        },
+        "2022": {
+          "ortalama": 0.7947964084669634,
+          "medyan": 0.8115071310037977
+        }
+      }
+    },
+    {
+      "slug": "marmara-üni̇versi̇tesi̇",
+      "name": "MARMARA ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2016": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2017": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2018": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2019": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2020": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2021": {
+          "ortalama": 0.81509195642572,
+          "medyan": 0.7991861527914067
+        },
+        "2022": {
+          "ortalama": 0.8163826057658367,
+          "medyan": 0.7927307866164609
+        }
+      }
+    },
+    {
+      "slug": "mef-üni̇versi̇tesi̇",
+      "name": "MEF ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2016": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2017": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2018": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2019": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2020": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2021": {
+          "ortalama": 0.7164934693323787,
+          "medyan": 0.8548560437924618
+        },
+        "2022": {
+          "ortalama": null,
+          "medyan": null
+        }
+      }
+    },
+    {
+      "slug": "mersi̇n-üni̇versi̇tesi̇",
+      "name": "MERSİN ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2016": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2017": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2018": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2019": {
+          "ortalama": 0.7656148933575176,
+          "medyan": 0.7568866317821219
+        },
+        "2020": {
+          "ortalama": 0.8095513609056838,
+          "medyan": 0.7951607814405708
+        },
+        "2021": {
+          "ortalama": 0.8038663774499824,
+          "medyan": 0.878946506323843
+        },
+        "2022": {
+          "ortalama": 0.7529515226946654,
+          "medyan": 0.8691177979808895
+        }
+      }
+    },
+    {
+      "slug": "mi̇mar-si̇nan-güzel-sanatlar-üni̇versi̇tesi̇",
+      "name": "MİMAR SİNAN GÜZEL SANATLAR ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": 0.7963507792991619,
+          "medyan": 0.8910367660968719
+        },
+        "2016": {
+          "ortalama": 0.7233897592992901,
+          "medyan": 0.9839328501165938
+        },
+        "2017": {
+          "ortalama": 0.8453136810172028,
+          "medyan": 0.6270994000896287
+        },
+        "2018": {
+          "ortalama": 0.8245258299730134,
+          "medyan": 0.9381370122781356
+        },
+        "2019": {
+          "ortalama": 0.7448158957156522,
+          "medyan": 0.9013037283212226
+        },
+        "2020": {
+          "ortalama": 0.755804198284851,
+          "medyan": 0.9444501213285046
+        },
+        "2021": {
+          "ortalama": 0.7122749116498269,
+          "medyan": 0.9337200706249142
+        },
+        "2022": {
+          "ortalama": 0.680883334669419,
+          "medyan": 0.9227082945754186
+        }
+      }
+    },
+    {
+      "slug": "mudanya-üni̇versi̇tesi̇",
+      "name": "MUDANYA ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2016": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2017": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2018": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2019": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2020": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2021": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2022": {
+          "ortalama": null,
+          "medyan": null
+        }
+      }
+    },
+    {
+      "slug": "muğla-sitki-koçman-üni̇versi̇tesi̇",
+      "name": "MUĞLA SITKI KOÇMAN ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": 0.7463495028162377,
+          "medyan": 0.7061876315290394
+        },
+        "2016": {
+          "ortalama": 0.7523216839411841,
+          "medyan": 0.7533931778518462
+        },
+        "2017": {
+          "ortalama": 0.8481756188870914,
+          "medyan": 0.9811725859804061
+        },
+        "2018": {
+          "ortalama": 0.7279778539299585,
+          "medyan": 0.6519545112290183
+        },
+        "2019": {
+          "ortalama": 0.7797498758263097,
+          "medyan": 0.9779158977646053
+        },
+        "2020": {
+          "ortalama": 0.7775379494027688,
+          "medyan": 0.6870053458860178
+        },
+        "2021": {
+          "ortalama": 0.7761376410502427,
+          "medyan": 0.7417638931876617
+        },
+        "2022": {
+          "ortalama": 0.7829683833873514,
+          "medyan": 0.8052874901582019
+        }
+      }
+    },
+    {
+      "slug": "munzur-üni̇versi̇tesi̇",
+      "name": "MUNZUR ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2016": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2017": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2018": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2019": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2020": {
+          "ortalama": 0.7323150188239019,
+          "medyan": 0.6973567634773559
+        },
+        "2021": {
+          "ortalama": 0.6496564466002513,
+          "medyan": 0.7660238089188861
+        },
+        "2022": {
+          "ortalama": null,
+          "medyan": null
+        }
+      }
+    },
+    {
+      "slug": "muş-alparslan-üni̇versi̇tesi̇",
+      "name": "MUŞ ALPARSLAN ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2016": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2017": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2018": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2019": {
+          "ortalama": 0.634582378837779,
+          "medyan": 0.5179876931167329
+        },
+        "2020": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2021": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2022": {
+          "ortalama": 0.7693756582074043,
+          "medyan": 0.8383433979480112
+        }
+      }
+    },
+    {
+      "slug": "necmetti̇n-erbakan-üni̇versi̇tesi̇",
+      "name": "NECMETTİN ERBAKAN ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2016": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2017": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2018": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2019": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2020": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2021": {
+          "ortalama": 0.7983860979982798,
+          "medyan": 0.8996536948890039
+        },
+        "2022": {
+          "ortalama": 0.8336680794266296,
+          "medyan": 0.8244204835997501
+        }
+      }
+    },
+    {
+      "slug": "nevşehi̇r-haci-bektaş-veli̇-üni̇versi̇tesi̇",
+      "name": "NEVŞEHİR HACI BEKTAŞ VELİ ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": 0.9079540139449694,
+          "medyan": 0.9883466085084509
+        },
+        "2016": {
+          "ortalama": 0.8916416249718366,
+          "medyan": 0.8152573154431404
+        },
+        "2017": {
+          "ortalama": 0.829810926004322,
+          "medyan": 0.9836521416982978
+        },
+        "2018": {
+          "ortalama": 0.7921119040036537,
+          "medyan": 0.7085427043057816
+        },
+        "2019": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2020": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2021": {
+          "ortalama": 0.7480211593520291,
+          "medyan": 0.9034249179722602
+        },
+        "2022": {
+          "ortalama": null,
+          "medyan": null
+        }
+      }
+    },
+    {
+      "slug": "ni̇ğde-ömer-hali̇sdemi̇r-üni̇versi̇tesi̇",
+      "name": "NİĞDE ÖMER HALİSDEMİR ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2016": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2017": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2018": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2019": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2020": {
+          "ortalama": 0.7690428466991535,
+          "medyan": 0.8798639936042729
+        },
+        "2021": {
+          "ortalama": 0.788919668448882,
+          "medyan": 0.8011171461017021
+        },
+        "2022": {
+          "ortalama": 0.8028958820366138,
+          "medyan": 0.8018919142122364
+        }
+      }
+    },
+    {
+      "slug": "nuh-naci̇-yazgan-üni̇versi̇tesi̇",
+      "name": "NUH NACİ YAZGAN ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2016": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2017": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2018": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2019": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2020": {
+          "ortalama": 0.6421487350425945,
+          "medyan": null
+        },
+        "2021": {
+          "ortalama": 0.6420074787185388,
+          "medyan": 0.6346495392501624
+        },
+        "2022": {
+          "ortalama": 0.5835849393955793,
+          "medyan": 0.608415777336034
+        }
+      }
+    },
+    {
+      "slug": "ondokuz-mayis-üni̇versi̇tesi̇",
+      "name": "ONDOKUZ MAYIS ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": 0.7310747726308582,
+          "medyan": 0.8270977661256591
+        },
+        "2016": {
+          "ortalama": 0.7545169104018726,
+          "medyan": 0.763162451559726
+        },
+        "2017": {
+          "ortalama": 0.8689127530182378,
+          "medyan": 0.9813240167634808
+        },
+        "2018": {
+          "ortalama": 0.7863136894977558,
+          "medyan": 0.7085162330945347
+        },
+        "2019": {
+          "ortalama": 0.8090672009368836,
+          "medyan": 0.9782856732271789
+        },
+        "2020": {
+          "ortalama": 0.7558097355523004,
+          "medyan": 0.8559136432179164
+        },
+        "2021": {
+          "ortalama": 0.8087018492717093,
+          "medyan": 0.77125390995911
+        },
+        "2022": {
+          "ortalama": 0.814833783888973,
+          "medyan": 0.7701668805779829
+        }
+      }
+    },
+    {
+      "slug": "ordu-üni̇versi̇tesi̇",
+      "name": "ORDU ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2016": {
+          "ortalama": 0.8903023242578443,
+          "medyan": 0.8616253787111147
+        },
+        "2017": {
+          "ortalama": 0.891673624876551,
+          "medyan": 0.8307868157418226
+        },
+        "2018": {
+          "ortalama": 0.7076337334643144,
+          "medyan": 0.7134139398193191
+        },
+        "2019": {
+          "ortalama": 0.7351831327802133,
+          "medyan": 0.6630334190510497
+        },
+        "2020": {
+          "ortalama": 0.8128751868894591,
+          "medyan": 0.7577443425583299
+        },
+        "2021": {
+          "ortalama": 0.7984580110386468,
+          "medyan": 0.7895556181025064
+        },
+        "2022": {
+          "ortalama": 0.7384656176245761,
+          "medyan": 0.7554036008399212
+        }
+      }
+    },
+    {
+      "slug": "orta-doğu-tekni̇k-üni̇versi̇tesi̇",
+      "name": "ORTA DOĞU TEKNİK ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": 0.8979274348032971,
+          "medyan": 0.9590498866366124
+        },
+        "2016": {
+          "ortalama": 0.8693067625241385,
+          "medyan": 0.9338556135725904
+        },
+        "2017": {
+          "ortalama": 0.9129777190028366,
+          "medyan": 0.9816031876767894
+        },
+        "2018": {
+          "ortalama": 0.8741665918214022,
+          "medyan": 0.8450422006893424
+        },
+        "2019": {
+          "ortalama": 0.8949421513768873,
+          "medyan": 0.9783301254482983
+        },
+        "2020": {
+          "ortalama": 0.8564901804702789,
+          "medyan": 0.8416443654880739
+        },
+        "2021": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2022": {
+          "ortalama": null,
+          "medyan": null
+        }
+      }
+    },
+    {
+      "slug": "osmani̇ye-korkut-ata-üni̇versi̇tesi̇",
+      "name": "OSMANİYE KORKUT ATA ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2016": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2017": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2018": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2019": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2020": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2021": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2022": {
+          "ortalama": 0.8425393054424328,
+          "medyan": 0.8866907752508041
+        }
+      }
+    },
+    {
+      "slug": "osti̇m-tekni̇k-üni̇versi̇tesi̇",
+      "name": "OSTİM TEKNİK ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2016": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2017": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2018": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2019": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2020": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2021": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2022": {
+          "ortalama": null,
+          "medyan": null
+        }
+      }
+    },
+    {
+      "slug": "özyeği̇n-üni̇versi̇tesi̇",
+      "name": "ÖZYEĞİN ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": 0.9219775427951551,
+          "medyan": 0.9584582584041025
+        },
+        "2016": {
+          "ortalama": 0.9167396383114171,
+          "medyan": 0.9842730101118226
+        },
+        "2017": {
+          "ortalama": 0.919774371753525,
+          "medyan": 0.9817848953635131
+        },
+        "2018": {
+          "ortalama": 0.8610904991350286,
+          "medyan": 0.8486654591450962
+        },
+        "2019": {
+          "ortalama": 0.8938798165293893,
+          "medyan": 0.9783215417298893
+        },
+        "2020": {
+          "ortalama": 0.8720599070385012,
+          "medyan": 0.8564243914838151
+        },
+        "2021": {
+          "ortalama": 0.8776810630587957,
+          "medyan": 0.8808432173280097
+        },
+        "2022": {
+          "ortalama": 0.8728335172986671,
+          "medyan": 0.8797010870504078
+        }
+      }
+    },
+    {
+      "slug": "pamukkale-üni̇versi̇tesi̇",
+      "name": "PAMUKKALE ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": 0.8593979363989835,
+          "medyan": 0.9674948901744994
+        },
+        "2016": {
+          "ortalama": 0.7948978422849751,
+          "medyan": 0.9223478605368737
+        },
+        "2017": {
+          "ortalama": 0.860452205288811,
+          "medyan": 0.9814367857897338
+        },
+        "2018": {
+          "ortalama": 0.7390435695802611,
+          "medyan": 0.6465851273420912
+        },
+        "2019": {
+          "ortalama": 0.793261136293125,
+          "medyan": 0.9803037428192614
+        },
+        "2020": {
+          "ortalama": 0.7776913277119271,
+          "medyan": 0.7776694941536814
+        },
+        "2021": {
+          "ortalama": 0.7472070239283233,
+          "medyan": 0.7452737475684452
+        },
+        "2022": {
+          "ortalama": 0.7493577406104537,
+          "medyan": 0.745388519541983
+        }
+      }
+    },
+    {
+      "slug": "pi̇ri̇-rei̇s-üni̇versi̇tesi̇",
+      "name": "PİRİ REİS ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": 0.9243131984538134,
+          "medyan": 0.9892846172815735
+        },
+        "2016": {
+          "ortalama": 0.8246640505438083,
+          "medyan": 0.9841547130659593
+        },
+        "2017": {
+          "ortalama": 0.9350472701349514,
+          "medyan": 0.9820901088400745
+        },
+        "2018": {
+          "ortalama": 0.8919261791924364,
+          "medyan": 0.8747405962395939
+        },
+        "2019": {
+          "ortalama": 0.9028724668085464,
+          "medyan": 0.9778532899068832
+        },
+        "2020": {
+          "ortalama": 0.8774733167266292,
+          "medyan": 0.8132860714292085
+        },
+        "2021": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2022": {
+          "ortalama": null,
+          "medyan": null
+        }
+      }
+    },
+    {
+      "slug": "recep-tayyi̇p-erdoğan-üni̇versi̇tesi̇",
+      "name": "RECEP TAYYİP ERDOĞAN ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2016": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2017": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2018": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2019": {
+          "ortalama": 0.8053006706523692,
+          "medyan": 0.9777625147187343
+        },
+        "2020": {
+          "ortalama": 0.7818819824813401,
+          "medyan": 0.7539368461107598
+        },
+        "2021": {
+          "ortalama": 0.8048653749496837,
+          "medyan": 0.8128012167201887
+        },
+        "2022": {
+          "ortalama": null,
+          "medyan": null
+        }
+      }
+    },
+    {
+      "slug": "sabanci-üni̇versi̇tesi̇",
+      "name": "SABANCI ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": 0.9561190182742516,
+          "medyan": 0.9923169502079255
+        },
+        "2016": {
+          "ortalama": 0.9250990543775409,
+          "medyan": 0.9842934465446193
+        },
+        "2017": {
+          "ortalama": 0.9318070435127963,
+          "medyan": 0.981736748241949
+        },
+        "2018": {
+          "ortalama": 0.896254972422617,
+          "medyan": 0.8526984764495974
+        },
+        "2019": {
+          "ortalama": 0.9046957841112327,
+          "medyan": 0.9781053184916974
+        },
+        "2020": {
+          "ortalama": 0.8860357362012847,
+          "medyan": 0.8621933659516312
+        },
+        "2021": {
+          "ortalama": 0.9060555954606291,
+          "medyan": 0.9017122150670669
+        },
+        "2022": {
+          "ortalama": 0.9152500126286661,
+          "medyan": 0.8892188213553618
+        }
+      }
+    },
+    {
+      "slug": "sağlik-bi̇li̇mleri̇-üni̇versi̇tesi̇",
+      "name": "SAĞLIK BİLİMLERİ ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2016": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2017": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2018": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2019": {
+          "ortalama": 0.6990458919897284,
+          "medyan": 0.8260120735145655
+        },
+        "2020": {
+          "ortalama": 0.6890934697172985,
+          "medyan": 0.7365137046760661
+        },
+        "2021": {
+          "ortalama": 0.8325940363621351,
+          "medyan": 0.8264669102116917
+        },
+        "2022": {
+          "ortalama": 0.7801579064379356,
+          "medyan": 0.7453259557812228
+        }
+      }
+    },
+    {
+      "slug": "sakarya-uygulamali-bi̇li̇mler-üni̇versi̇tesi̇",
+      "name": "SAKARYA UYGULAMALI BİLİMLER ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2016": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2017": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2018": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2019": {
+          "ortalama": 0.7253423550161352,
+          "medyan": 0.8833531116808693
+        },
+        "2020": {
+          "ortalama": 0.7538676111175913,
+          "medyan": 0.8689779432712512
+        },
+        "2021": {
+          "ortalama": 0.7701248806751134,
+          "medyan": 0.9009169615715986
+        },
+        "2022": {
+          "ortalama": 0.7952341152818332,
+          "medyan": 0.8040044787325096
+        }
+      }
+    },
+    {
+      "slug": "sakarya-üni̇versi̇tesi̇",
+      "name": "SAKARYA ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2016": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2017": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2018": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2019": {
+          "ortalama": 0.7991520489967541,
+          "medyan": 0.980257403754325
+        },
+        "2020": {
+          "ortalama": 0.7926214252614067,
+          "medyan": 0.7228106239659047
+        },
+        "2021": {
+          "ortalama": 0.8219088831677215,
+          "medyan": 0.7994954692940626
+        },
+        "2022": {
+          "ortalama": 0.8144817001423608,
+          "medyan": 0.8174753031199711
+        }
+      }
+    },
+    {
+      "slug": "samsun-üni̇versi̇tesi̇",
+      "name": "SAMSUN ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2016": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2017": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2018": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2019": {
+          "ortalama": 0.720124273861933,
+          "medyan": 0.6873905486092834
+        },
+        "2020": {
+          "ortalama": 0.6895358882554818,
+          "medyan": 0.5987761815096254
+        },
+        "2021": {
+          "ortalama": 0.5445281221813045,
+          "medyan": 0.8491866871262077
+        },
+        "2022": {
+          "ortalama": null,
+          "medyan": null
+        }
+      }
+    },
+    {
+      "slug": "sanko-üni̇versi̇tesi̇",
+      "name": "SANKO ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2016": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2017": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2018": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2019": {
+          "ortalama": 0.546609003493592,
+          "medyan": 0.34898774997417803
+        },
+        "2020": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2021": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2022": {
+          "ortalama": null,
+          "medyan": null
+        }
+      }
+    },
+    {
+      "slug": "selçuk-üni̇versi̇tesi̇",
+      "name": "SELÇUK ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": 0.7498770502787739,
+          "medyan": 0.8233591564309065
+        },
+        "2016": {
+          "ortalama": 0.8363854047984561,
+          "medyan": 0.9840400234534786
+        },
+        "2017": {
+          "ortalama": 0.8972759640432715,
+          "medyan": 0.9813366078637538
+        },
+        "2018": {
+          "ortalama": 0.7940285986185662,
+          "medyan": 0.7360375687342112
+        },
+        "2019": {
+          "ortalama": 0.8161759425283308,
+          "medyan": 0.9780989508328553
+        },
+        "2020": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2021": {
+          "ortalama": 0.8214298284365494,
+          "medyan": 0.7767552477749428
+        },
+        "2022": {
+          "ortalama": 0.8285059150956888,
+          "medyan": 0.7903435437476187
+        }
+      }
+    },
+    {
+      "slug": "si̇i̇rt-üni̇versi̇tesi̇",
+      "name": "SİİRT ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2016": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2017": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2018": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2019": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2020": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2021": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2022": {
+          "ortalama": null,
+          "medyan": null
+        }
+      }
+    },
+    {
+      "slug": "si̇nop-üni̇versi̇tesi̇",
+      "name": "SİNOP ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2016": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2017": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2018": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2019": {
+          "ortalama": 0.7330967550702098,
+          "medyan": 0.87097018299038
+        },
+        "2020": {
+          "ortalama": 0.8175321694691264,
+          "medyan": 0.7505313438288985
+        },
+        "2021": {
+          "ortalama": 0.8317637735630184,
+          "medyan": 0.8579513945163442
+        },
+        "2022": {
+          "ortalama": 0.8451953696002998,
+          "medyan": 0.8739686240401146
+        }
+      }
+    },
+    {
+      "slug": "si̇vas-bi̇li̇m-ve-teknoloji̇-üni̇versi̇tesi̇",
+      "name": "SİVAS BİLİM VE TEKNOLOJİ ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2016": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2017": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2018": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2019": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2020": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2021": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2022": {
+          "ortalama": null,
+          "medyan": null
+        }
+      }
+    },
+    {
+      "slug": "si̇vas-cumhuri̇yet-üni̇versi̇tesi̇",
+      "name": "SİVAS CUMHURİYET ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2016": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2017": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2018": {
+          "ortalama": 0.7701252103365299,
+          "medyan": 0.7629432376688366
+        },
+        "2019": {
+          "ortalama": 0.7681989636238731,
+          "medyan": 0.9780970276834897
+        },
+        "2020": {
+          "ortalama": 0.7790680905303212,
+          "medyan": 0.7234302832646444
+        },
+        "2021": {
+          "ortalama": 0.7824665517974841,
+          "medyan": 0.7946124396653842
+        },
+        "2022": {
+          "ortalama": 0.8001705100969423,
+          "medyan": 0.8170583490385951
+        }
+      }
+    },
+    {
+      "slug": "süleyman-demi̇rel-üni̇versi̇tesi̇",
+      "name": "SÜLEYMAN DEMİREL ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2016": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2017": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2018": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2019": {
+          "ortalama": 0.7821657288980008,
+          "medyan": 0.6471126564046357
+        },
+        "2020": {
+          "ortalama": 0.7919406876665397,
+          "medyan": 0.7650029769082208
+        },
+        "2021": {
+          "ortalama": 0.7830964650692233,
+          "medyan": 0.7698532305152557
+        },
+        "2022": {
+          "ortalama": 0.7735685198631931,
+          "medyan": 0.758588599292154
+        }
+      }
+    },
+    {
+      "slug": "şirnak-üni̇versi̇tesi̇",
+      "name": "ŞIRNAK ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2016": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2017": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2018": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2019": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2020": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2021": {
+          "ortalama": 0.7742630671869195,
+          "medyan": 0.8819688787236143
+        },
+        "2022": {
+          "ortalama": 0.8148553735034255,
+          "medyan": 0.9539835776409238
+        }
+      }
+    },
+    {
+      "slug": "tarsus-üni̇versi̇tesi̇",
+      "name": "TARSUS ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2016": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2017": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2018": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2019": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2020": {
+          "ortalama": 0.84884641388661,
+          "medyan": 0.8973049900317887
+        },
+        "2021": {
+          "ortalama": 0.7459464523468887,
+          "medyan": 0.692015796155928
+        },
+        "2022": {
+          "ortalama": 0.8192526023871136,
+          "medyan": null
+        }
+      }
+    },
+    {
+      "slug": "ted-üni̇versi̇tesi̇",
+      "name": "TED ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2016": {
+          "ortalama": 0.815128296015279,
+          "medyan": 0.9891348082809681
+        },
+        "2017": {
+          "ortalama": 0.8435311194695935,
+          "medyan": 0.9814534603403527
+        },
+        "2018": {
+          "ortalama": 0.7857882880177759,
+          "medyan": 0.7860836065788319
+        },
+        "2019": {
+          "ortalama": 0.8141637057795368,
+          "medyan": 0.9801218514664825
+        },
+        "2020": {
+          "ortalama": 0.766478332357249,
+          "medyan": 0.765854514277695
+        },
+        "2021": {
+          "ortalama": 0.8058634038118365,
+          "medyan": 0.9181652775562151
+        },
+        "2022": {
+          "ortalama": 0.7936572707624233,
+          "medyan": 0.8297235466503387
+        }
+      }
+    },
+    {
+      "slug": "teki̇rdağ-namik-kemal-üni̇versi̇tesi̇",
+      "name": "TEKİRDAĞ NAMIK KEMAL ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": 0.6939260954627018,
+          "medyan": 0.6471921388756268
+        },
+        "2016": {
+          "ortalama": 0.7525229840993034,
+          "medyan": 0.873733702619927
+        },
+        "2017": {
+          "ortalama": 0.7967396185010635,
+          "medyan": 0.9839175405336837
+        },
+        "2018": {
+          "ortalama": 0.7398716348089893,
+          "medyan": 0.7403882903427688
+        },
+        "2019": {
+          "ortalama": 0.802988805147221,
+          "medyan": 0.9802354547029596
+        },
+        "2020": {
+          "ortalama": 0.7627656011467452,
+          "medyan": 0.8510169111880392
+        },
+        "2021": {
+          "ortalama": 0.7768563630512935,
+          "medyan": 0.7702438957323998
+        },
+        "2022": {
+          "ortalama": 0.7779835680736689,
+          "medyan": 0.7488199029394137
+        }
+      }
+    },
+    {
+      "slug": "tobb-ekonomi̇-ve-teknoloji̇-üni̇versi̇tesi̇",
+      "name": "TOBB EKONOMİ VE TEKNOLOJİ ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2016": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2017": {
+          "ortalama": 0.8868367060110878,
+          "medyan": 0.98174569967941
+        },
+        "2018": {
+          "ortalama": 0.8227946747802667,
+          "medyan": 0.8301203123593367
+        },
+        "2019": {
+          "ortalama": 0.8642458103438839,
+          "medyan": 0.9778067211174538
+        },
+        "2020": {
+          "ortalama": 0.8537347239902127,
+          "medyan": 0.8230399159683587
+        },
+        "2021": {
+          "ortalama": 0.8869550546148393,
+          "medyan": 0.8860898490508239
+        },
+        "2022": {
+          "ortalama": 0.8602229863298654,
+          "medyan": 0.8520516639618507
+        }
+      }
+    },
+    {
+      "slug": "tokat-gazi̇osmanpaşa-üni̇versi̇tesi̇",
+      "name": "TOKAT GAZİOSMANPAŞA ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": 0.8623459913337834,
+          "medyan": 0.93123988543741
+        },
+        "2016": {
+          "ortalama": 0.8858982344175476,
+          "medyan": 0.9890741120597396
+        },
+        "2017": {
+          "ortalama": 0.9001975591146817,
+          "medyan": 0.9818446146841002
+        },
+        "2018": {
+          "ortalama": 0.8154258161663553,
+          "medyan": 0.9038940310404695
+        },
+        "2019": {
+          "ortalama": 0.8376874576424778,
+          "medyan": 0.980080357765844
+        },
+        "2020": {
+          "ortalama": 0.7246555445781637,
+          "medyan": 0.7263425555444699
+        },
+        "2021": {
+          "ortalama": 0.7597864266756612,
+          "medyan": 0.9002903080058091
+        },
+        "2022": {
+          "ortalama": 0.7817470699711848,
+          "medyan": 0.8091224073768399
+        }
+      }
+    },
+    {
+      "slug": "toros-üni̇versi̇tesi̇",
+      "name": "TOROS ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2016": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2017": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2018": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2019": {
+          "ortalama": 0.45135378445138097,
+          "medyan": 0.759209918599838
+        },
+        "2020": {
+          "ortalama": 0.5263480928434425,
+          "medyan": 0.571816094361795
+        },
+        "2021": {
+          "ortalama": 0.4651644440728525,
+          "medyan": 0.36003073837015287
+        },
+        "2022": {
+          "ortalama": null,
+          "medyan": null
+        }
+      }
+    },
+    {
+      "slug": "trabzon-üni̇versi̇tesi̇",
+      "name": "TRABZON ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2016": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2017": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2018": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2019": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2020": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2021": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2022": {
+          "ortalama": 0.7416105693468746,
+          "medyan": 0.7417991620213384
+        }
+      }
+    },
+    {
+      "slug": "trakya-üni̇versi̇tesi̇",
+      "name": "TRAKYA ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2016": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2017": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2018": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2019": {
+          "ortalama": 0.7463469613088717,
+          "medyan": 0.9778718276704439
+        },
+        "2020": {
+          "ortalama": 0.7373230485088857,
+          "medyan": 0.6641420746513135
+        },
+        "2021": {
+          "ortalama": 0.7496074528657921,
+          "medyan": 0.7345585529459309
+        },
+        "2022": {
+          "ortalama": null,
+          "medyan": null
+        }
+      }
+    },
+    {
+      "slug": "türk-hava-kurumu-üni̇versi̇tesi̇",
+      "name": "TÜRK HAVA KURUMU ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2016": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2017": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2018": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2019": {
+          "ortalama": 0.7709313289467581,
+          "medyan": 0.8747028075630858
+        },
+        "2020": {
+          "ortalama": 0.7646372568916404,
+          "medyan": 0.8413101158099534
+        },
+        "2021": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2022": {
+          "ortalama": 0.7696356190636933,
+          "medyan": 0.7220263092949353
+        }
+      }
+    },
+    {
+      "slug": "türk-alman-üni̇versi̇tesi̇",
+      "name": "TÜRK-ALMAN ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2016": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2017": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2018": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2019": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2020": {
+          "ortalama": 0.7589471576998854,
+          "medyan": 0.8654998927982533
+        },
+        "2021": {
+          "ortalama": 0.7769620989705148,
+          "medyan": 0.9130743808883879
+        },
+        "2022": {
+          "ortalama": 0.7938157750774265,
+          "medyan": 0.91083106293371
+        }
+      }
+    },
+    {
+      "slug": "türk-japon-bi̇li̇m-ve-teknoloji̇-üni̇versi̇tesi̇",
+      "name": "TÜRK-JAPON BİLİM VE TEKNOLOJİ ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2016": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2017": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2018": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2019": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2020": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2021": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2022": {
+          "ortalama": null,
+          "medyan": null
+        }
+      }
+    },
+    {
+      "slug": "ufuk-üni̇versi̇tesi̇",
+      "name": "UFUK ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2016": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2017": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2018": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2019": {
+          "ortalama": 0.5643037347553951,
+          "medyan": 0.7789488889765095
+        },
+        "2020": {
+          "ortalama": 0.6223672715754016,
+          "medyan": 0.7095590534421361
+        },
+        "2021": {
+          "ortalama": 0.6193607978968945,
+          "medyan": 0.6875463471654578
+        },
+        "2022": {
+          "ortalama": 0.5629263559466372,
+          "medyan": 0.36544064507095747
+        }
+      }
+    },
+    {
+      "slug": "uluslararasi-kibris-üni̇versi̇tesi̇",
+      "name": "ULUSLARARASI KIBRIS ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2016": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2017": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2018": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2019": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2020": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2021": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2022": {
+          "ortalama": null,
+          "medyan": null
+        }
+      }
+    },
+    {
+      "slug": "uşak-üni̇versi̇tesi̇",
+      "name": "UŞAK ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2016": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2017": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2018": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2019": {
+          "ortalama": 0.7984694050782268,
+          "medyan": 0.9781605269372702
+        },
+        "2020": {
+          "ortalama": 0.7708074146154753,
+          "medyan": 0.8794612372475956
+        },
+        "2021": {
+          "ortalama": 0.7438529599550376,
+          "medyan": 0.8727681071736713
+        },
+        "2022": {
+          "ortalama": 0.7232402029138056,
+          "medyan": null
+        }
+      }
+    },
+    {
+      "slug": "üsküdar-üni̇versi̇tesi̇",
+      "name": "ÜSKÜDAR ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2016": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2017": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2018": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2019": {
+          "ortalama": 0.7376426424332401,
+          "medyan": 0.7812265433987108
+        },
+        "2020": {
+          "ortalama": 0.7402250017480502,
+          "medyan": 0.790349305610643
+        },
+        "2021": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2022": {
+          "ortalama": 0.7680018419640181,
+          "medyan": 0.8432244580322797
+        }
+      }
+    },
+    {
+      "slug": "van-yüzüncü-yil-üni̇versi̇tesi̇",
+      "name": "VAN YÜZÜNCÜ YIL ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2016": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2017": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2018": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2019": {
+          "ortalama": 0.7906878345554147,
+          "medyan": 0.9800372461142759
+        },
+        "2020": {
+          "ortalama": 0.7699036795095965,
+          "medyan": 0.8665807873680955
+        },
+        "2021": {
+          "ortalama": 0.7943368858639547,
+          "medyan": 0.7820766614110962
+        },
+        "2022": {
+          "ortalama": 0.7975969484916238,
+          "medyan": 0.80643036579595
+        }
+      }
+    },
+    {
+      "slug": "yalova-üni̇versi̇tesi̇",
+      "name": "YALOVA ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2016": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2017": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2018": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2019": {
+          "ortalama": 0.8136926059508757,
+          "medyan": 0.9801176143677027
+        },
+        "2020": {
+          "ortalama": 0.7663948849592959,
+          "medyan": 0.8128811367997526
+        },
+        "2021": {
+          "ortalama": 0.7575656096313279,
+          "medyan": 0.825535272093867
+        },
+        "2022": {
+          "ortalama": 0.7790266407198323,
+          "medyan": 0.8331911197594934
+        }
+      }
+    },
+    {
+      "slug": "yaşar-üni̇versi̇tesi̇",
+      "name": "YAŞAR ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": 0.6121846355557321,
+          "medyan": 0.824498685332449
+        },
+        "2016": {
+          "ortalama": 0.7750661486199939,
+          "medyan": 0.8067297795288078
+        },
+        "2017": {
+          "ortalama": 0.8551232103832788,
+          "medyan": 0.9816203577339191
+        },
+        "2018": {
+          "ortalama": 0.7905989060467316,
+          "medyan": 0.7276718334458121
+        },
+        "2019": {
+          "ortalama": 0.8004570882290647,
+          "medyan": 0.9776101406050417
+        },
+        "2020": {
+          "ortalama": 0.8300005086970488,
+          "medyan": 0.8668444596390597
+        },
+        "2021": {
+          "ortalama": 0.8185006812732456,
+          "medyan": 0.9260372094260543
+        },
+        "2022": {
+          "ortalama": 0.8475764310448293,
+          "medyan": 0.8884934080718778
+        }
+      }
+    },
+    {
+      "slug": "yedi̇tepe-üni̇versi̇tesi̇",
+      "name": "YEDİTEPE ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2016": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2017": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2018": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2019": {
+          "ortalama": 0.7833913194702588,
+          "medyan": 0.9784895141861519
+        },
+        "2020": {
+          "ortalama": 0.7589338668795271,
+          "medyan": 0.7202373358629502
+        },
+        "2021": {
+          "ortalama": 0.7800644963626299,
+          "medyan": 0.7842018743185896
+        },
+        "2022": {
+          "ortalama": 0.7850891829665274,
+          "medyan": 0.7954336846158934
+        }
+      }
+    },
+    {
+      "slug": "yildiz-tekni̇k-üni̇versi̇tesi̇",
+      "name": "YILDIZ TEKNİK ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2016": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2017": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2018": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2019": {
+          "ortalama": 0.8294086770165346,
+          "medyan": 0.978085736961116
+        },
+        "2020": {
+          "ortalama": 0.8095614969571945,
+          "medyan": 0.7943087981891398
+        },
+        "2021": {
+          "ortalama": 0.8209332441997752,
+          "medyan": 0.9057315540635973
+        },
+        "2022": {
+          "ortalama": 0.8607641452161425,
+          "medyan": 0.8289467252879458
+        }
+      }
+    },
+    {
+      "slug": "yozgat-bozok-üni̇versi̇tesi̇",
+      "name": "YOZGAT BOZOK ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2016": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2017": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2018": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2019": {
+          "ortalama": 0.7313616966994991,
+          "medyan": 0.8812366875679023
+        },
+        "2020": {
+          "ortalama": 0.7917273346131528,
+          "medyan": 0.6944587806358244
+        },
+        "2021": {
+          "ortalama": 0.8357927039325638,
+          "medyan": 0.9032415544400212
+        },
+        "2022": {
+          "ortalama": 0.7589375284166995,
+          "medyan": 0.8939266392472538
+        }
+      }
+    },
+    {
+      "slug": "yüksek-i̇hti̇sas-üni̇versi̇tesi̇",
+      "name": "YÜKSEK İHTİSAS ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2016": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2017": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2018": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2019": {
+          "ortalama": null,
+          "medyan": null
+        },
+        "2020": {
+          "ortalama": 0.7444756407262122,
+          "medyan": 0.5017915221822478
+        },
+        "2021": {
+          "ortalama": 0.7775168682436279,
+          "medyan": 0.8210741111407439
+        },
+        "2022": {
+          "ortalama": null,
+          "medyan": null
+        }
+      }
+    },
+    {
+      "slug": "zonguldak-bülent-ecevi̇t-üni̇versi̇tesi̇",
+      "name": "ZONGULDAK BÜLENT ECEVİT ÜNİVERSİTESİ",
+      "scores": {
+        "2015": {
+          "ortalama": 0.7370114833852094,
+          "medyan": 0.9518205309735819
+        },
+        "2016": {
+          "ortalama": 0.7444889350311092,
+          "medyan": 0.7759266309938176
+        },
+        "2017": {
+          "ortalama": 0.8589339748252903,
+          "medyan": 0.9810301646815291
+        },
+        "2018": {
+          "ortalama": 0.6681776250340014,
+          "medyan": 0.6291314484392336
+        },
+        "2019": {
+          "ortalama": 0.7202418907727389,
+          "medyan": 0.9236451690425999
+        },
+        "2020": {
+          "ortalama": 0.7455048153817684,
+          "medyan": 0.8543459936161764
+        },
+        "2021": {
+          "ortalama": 0.780761571010854,
+          "medyan": 0.733847169782443
+        },
+        "2022": {
+          "ortalama": 0.7909982050767584,
+          "medyan": 0.7490281037840597
+        }
+      }
+    }
+  ],
+  "lastUpdated": "2025-09-20"
+}

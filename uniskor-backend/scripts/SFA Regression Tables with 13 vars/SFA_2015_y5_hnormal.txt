@@ -1,0 +1,62 @@
+-------------------------------------------------------------------------------- 
+Normal-Half Normal SF Model 
+Dependent Variable:                                                      log(y5) 
+Log likelihood solver:                                         BFGS maximization 
+Log likelihood iter:                                                        1054 
+Log likelihood value:                                                  -15.32707 
+Log likelihood gradient norm:                                        1.70551e-01 
+Estimation based on:                                          N =  41 and K =  8 
+Inf. Cr:                                            AIC  =  46.7 AIC/N  =  1.138 
+                                                    BIC  =  60.4 BIC/N  =  1.472 
+                                                    HQIC =  51.6 HQIC/N =  1.260 
+-------------------------------------------------------------------------------- 
+Variances: Sigma-squared(v)   =                                          0.00000 
+           Sigma(v)           =                                          0.00000 
+           Sigma-squared(u)   =                                          0.49464 
+           Sigma(u)           =                                          0.49464 
+Sigma = Sqrt[(s^2(u)+s^2(v))] =                                          0.70331 
+Gamma = sigma(u)^2/sigma^2    =                                          1.00000 
+Lambda = sigma(u)/sigma(v)    =                                     636729.04496 
+Var[u]/{Var[u]+Var[v]}        =                                          1.00000 
+-------------------------------------------------------------------------------- 
+Average inefficiency E[ui]     =                                         0.56116 
+Average efficiency E[exp(-ui)] =                                         0.61707 
+-------------------------------------------------------------------------------- 
+Stochastic Production/Profit Frontier, e = v - u 
+-----[ Tests vs. No Inefficiency ]-----
+Likelihood Ratio Test of Inefficiency
+Deg. freedom for inefficiency model                                            1 
+Log Likelihood for OLS Log(H0) =                                       -21.24801 
+LR statistic:  
+Chisq = 2*[LogL(H0)-LogL(H1)]  =                                        11.84187 
+Kodde-Palm C*:       95%: 2.70554                                   99%: 5.41189 
+Coelli (1995) skewness test on OLS residuals
+M3T: z                         =                                        -1.80134 
+M3T: p.value                   =                                         0.07165 
+Final maximum likelihood estimates 
+-------------------------------------------------------------------------------- 
+                         Deterministic Component of SFA 
+-------------------------------------------------------------------------------- 
+               Coefficient Std. Error   z value  Pr(>|z|)    
+(Intercept)        3.47855    0.00027 13027.391 < 2.2e-16 ***
+log(x1)           -0.72853    0.00025 -2960.473 < 2.2e-16 ***
+log(x2)           -0.00277    0.00009   -29.279 < 2.2e-16 ***
+log(x3)           -0.23010    0.00029  -794.827 < 2.2e-16 ***
+log(x4)            0.16668    0.00047   356.808 < 2.2e-16 ***
+log(x5)            0.24266    0.00014  1794.927 < 2.2e-16 ***
+-------------------------------------------------------------------------------- 
+                  Parameter in variance of u (one-sided error) 
+-------------------------------------------------------------------------------- 
+               Coefficient Std. Error     z value  Pr(>|z|)    
+Zu_(Intercept)    -0.70392    0.00000 -9691065381 < 2.2e-16 ***
+-------------------------------------------------------------------------------- 
+                 Parameters in variance of v (two-sided error) 
+-------------------------------------------------------------------------------- 
+               Coefficient Std. Error     z value  Pr(>|z|)    
+Zv_(Intercept)     -27.432      0.000 -4.9938e+10 < 2.2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+-------------------------------------------------------------------------------- 
+Model was estimated on : Eyl Cts 20, 2025 at 05:09 
+Log likelihood status: successful convergence  
+-------------------------------------------------------------------------------- 
